@@ -148,6 +148,11 @@ img = "images/aws-certified-solutions-architect-associate.png"
 weight = 2
 url = "https://www.youracclaim.com/badges/321e975e-ef89-404e-ad6e-63db23d21f27/public_url"
 
+[[params.badges]]
+name = "Certified ScrumMaster (CSM)"
+img = "images/seal-csm.png"
+weight = 3
+url = "https://bcert.me/puwvubqw"
 
 [languages]
     [languages.en]
