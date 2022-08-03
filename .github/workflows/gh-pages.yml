@@ -20,18 +20,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build IPFS
-        run: hugo --minify --config config_ipfs.toml
-
-      - name: Upload to IPFS
-        uses: aquiladev/ipfs-action@v0.2.2-alpha.0
-        with:
-          path: ./public
-          service: pinata
-          pinataKey: ${{ secrets.PINATA_API_KEY }}
-          pinataSecret: ${{ secrets.PINATA_API_SECRET }}
-          pinataPinName: ${{ github.event.repository.name }}
-
       - name: Build cageyv.dev
         run: rm -rf public && hugo --minify --baseURL https://cageyv.dev/
 
