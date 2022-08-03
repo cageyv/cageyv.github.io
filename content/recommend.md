@@ -6,14 +6,12 @@ slug = "recommend"
 ## Servies
 - [Numbeo](https://www.numbeo.com/)
   Do you want to compare Cities or Countries? Cost of living and Quality of Life database is here.
-- [Duo](https://invite.duolingo.com/BDHTZTB5CWWKTYCCWB2BOHEM2E)
+- [DuoLingo](https://invite.duolingo.com/BDHTZTB5CWWKTYCCWB2BOHEM2E)
   The free, fun, and effective way to learn a language! 
 - [Onward Ticket](https://onwardticket.com/)
   Quickly book a Flight Reservation for your Visa Application. Verifiable on Airline's Websites.
 - [SafetyWing](https://safetywing.com/nomad-insurance/)
   Insurance for nomdas. Travel medical insurance. They cover people from all over the world, while outside their home country.
-- [DuoLingo](https://www.duolingo.com/)
-  The free, fun, and effective way to learn a language!
 - [Audible](https://www.audible.com/)
   Audiobooks, Originals, and podcasts
 - [Feedly](https://feedly.com/)
