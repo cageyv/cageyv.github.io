@@ -86,7 +86,8 @@ pygmentsCodeFencesGuessSyntax = true
 		    "'unsafe-inline'",
             "https://code.jquery.com/",
             "https://cdnjs.cloudflare.com/ajax/libs/photoswipe/",
-            "https://twemoji.maxcdn.com"
+            "https://twemoji.maxcdn.com",
+            "https://static.cloudflareinsights.com/"
       ]
       connectsrc = [
           "'self'"
