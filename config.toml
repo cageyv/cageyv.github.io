@@ -60,10 +60,6 @@ pygmentsCodeFencesGuessSyntax = true
     # Custom JS
     customJS = []
 
-# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-[params.googleTagManager]
-    id = "UA-176564414-1"
-
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
 	  childsrc = ["'self'"]
@@ -76,29 +72,24 @@ pygmentsCodeFencesGuessSyntax = true
 	  framesrc = ["'self'"]
 	  imgsrc = [
           "'self'",
-          "https://www.google-analytics.com",
           "https://cdnjs.cloudflare.com/ajax/libs/photoswipe/"
       ]
 	  objectsrc = ["'none'"]
 	  stylesrc = [
         "'self'",
 		    "'unsafe-inline'",
-		    "https://fonts.googleapis.com/",
 		    "https://cdn.jsdelivr.net/",
             "https://cdnjs.cloudflare.com/ajax/libs/photoswipe/"
       ]
 	  scriptsrc = [
         "'self'",
 		    "'unsafe-inline'",
-		    "https://www.google-analytics.com",
             "https://code.jquery.com/",
             "https://cdnjs.cloudflare.com/ajax/libs/photoswipe/",
-            "https://twemoji.maxcdn.com",
-            "https://www.googletagmanager.com/gtag/js"
+            "https://twemoji.maxcdn.com"
       ]
       connectsrc = [
-          "'self'",
-          "https://www.google-analytics.com"
+          "'self'"
       ]
 	  prefetchsrc = ["'self'"]
 
