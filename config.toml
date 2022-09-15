@@ -155,9 +155,15 @@ weight = 3
 url = "https://bcert.me/puwvubqw"
 
 [[params.badges]]
+name = "AWS Certified Cloud Practitioner"
+img = "images/aws-certified-cloud-practitioner.png"
+weight = 4
+url = "https://www.credly.com/badges/b80c3f21-5cf9-4fd5-a27a-b672cf0b80fd/public_url "
+
+[[params.badges]]
 name = "Fivexl"
 img = "images/fivexl.png"
-weight = 4
+weight = 5
 url = "https://fivexl.io"
 
 [languages]
