@@ -18,3 +18,11 @@ Certified AWS architect
 HashiCorp tools specialist  
 Immutable infrastructure advocate  
 Python/Machine Learning enthusiast  
+
+## Books
+
+{{< gallery dir="images/about/books" />}}
+
+## Movies
+
+{{< gallery dir="images/about/movies" />}}
