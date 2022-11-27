@@ -160,7 +160,7 @@ url = "https://www.credly.com/badges/b80c3f21-5cf9-4fd5-a27a-b672cf0b80fd/public
 name = "Fivexl"
 img = "images/fivexl.png"
 weight = 6
-url = "https://fivexl.io"
+url = "https://fivexl.io/author/vladimir-samoylov/"
 
 [languages]
     [languages.en]
