@@ -3,6 +3,8 @@ title = "About Me"
 slug = "about"
 +++
 
+{{< load-photoswipe >}}
+
 ## Personality
 Organized and responsible  
 Self-directive, I only need to know a direction - will figure out a way on my own  
