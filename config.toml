@@ -127,33 +127,39 @@ pygmentsCodeFencesGuessSyntax = true
     type = "application/rss+xml"
 
 [[params.badges]]
+name = "AWS Community Builder"
+img = "images/aws-community-builders.png"
+weight = 1
+url = "https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Samoylov%2BVladimir&cb-cards.q_operator=AND"
+
+[[params.badges]]
 name = "AWS Solutions Architect Assocaiate"
 img = "images/aws-certified-solutions-architect-associate.png"
-weight = 1
+weight = 2
 url = "https://www.credly.com/badges/321e975e-ef89-404e-ad6e-63db23d21f27/public_url"
 
 [[params.badges]]
 name = "HashiCorp Terraform Assocaiate"
 img = "images/hashicorp-certified-terraform-associate.png"
-weight = 2
+weight = 3
 url = "https://www.credly.com/badges/096e9341-0ff8-4568-ab17-b2da022dd6dc/public_url"
 
 [[params.badges]]
 name = "Certified ScrumMaster (CSM)"
 img = "images/seal-csm.png"
-weight = 3
+weight = 4
 url = "https://bcert.me/puwvubqw"
 
 [[params.badges]]
 name = "AWS Certified Cloud Practitioner"
 img = "images/aws-certified-cloud-practitioner.png"
-weight = 4
+weight = 5
 url = "https://www.credly.com/badges/b80c3f21-5cf9-4fd5-a27a-b672cf0b80fd/public_url "
 
 [[params.badges]]
 name = "Fivexl"
 img = "images/fivexl.png"
-weight = 5
+weight = 6
 url = "https://fivexl.io"
 
 [languages]
