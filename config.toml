@@ -26,8 +26,6 @@ pygmentsCodeFencesGuessSyntax = true
     dateFormat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = true
-    hideCopyright = false
     since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
