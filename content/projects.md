@@ -26,6 +26,10 @@ Resource Optimization: Resource usage has been reduced by more than 50% and we w
 - Ensuring that solution is as cost-efficient as possible
 
 ## Open-Source
+- [lProbe](https://github.com/fivexl/lprobe)
+  A command-line tool to perform Local Health Check Probes inside Container Images (ECS, Docker)
+- [Magic Button](https://github.com/fivexl/magic-button)
+  Deployment confirmation button for Slack
 - [Terraform AWS EC2 Spot Price](https://github.com/fivexl/terraform-aws-ec2-spot-price)  
   An easy way to always have a fresh Spot Instance price
 - [Terraform AWS Tag Generator](https://github.com/fivexl/terraform-aws-tag-generator)  
