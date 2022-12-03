@@ -3,8 +3,6 @@ title = "About Me"
 slug = "about"
 +++
 
-{{< load-photoswipe >}}
-
 ## Personality
 Organized and responsible  
 Self-directive, I only need to know a direction - will figure out a way on my own  
@@ -23,8 +21,8 @@ Python/Machine Learning enthusiast
 
 ## Books
 
-{{< gallery dir="images/about/books" />}}
+{{< posts-gallery category="book" />}}
 
-## Movies
+## Films
 
-{{< gallery dir="images/about/movies" />}}
+{{< posts-gallery category="film" />}}
