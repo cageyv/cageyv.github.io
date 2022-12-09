@@ -1,4 +1,5 @@
 +++
+draft = true
 date = "2000-01-24"
 title = "Film: Forrest Gump"
 slug = "forrest-gump"

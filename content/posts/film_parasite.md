@@ -1,4 +1,5 @@
 +++
+draft = true
 date = "2020-01-01"
 title = "Film: Parasite"
 slug = "parasite"

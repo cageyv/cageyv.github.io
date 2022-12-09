@@ -1,4 +1,5 @@
 +++
+draft = true
 date = "2022-09-01"
 title = "Book: The Kama Sutra of Public Speaking"
 slug = "the-kama-sutra-of-public-speaking"

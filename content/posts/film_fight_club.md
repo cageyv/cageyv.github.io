@@ -1,4 +1,5 @@
 +++
+draft = true
 date = "2000-01-01"
 title = "Film: Fight Club"
 slug = "fight-club"
