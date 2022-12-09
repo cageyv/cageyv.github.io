@@ -20,7 +20,8 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 				<!-- skip posts without featuredImage -->
 					{{- $caption := $post.Slug | humanize | title }}
 					{{- $thumbURL := print $baseURL $post.Params.featuredImage | absURL }}
-					{{- $linkURL := $post.RelPermalink }}
+					{{- $linkURL := $post.Params.externalLink | default $post.RelPermalink }}
+
 					<div class="box">
 						<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 							<div class="img" style="background-image: url('{{ $thumbURL }}');" >
