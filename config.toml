@@ -162,6 +162,13 @@ img = "images/fivexl.png"
 weight = 6
 url = "https://fivexl.io/author/vladimir-samoylov/"
 
+[[params.badges]]
+name = "DevWithAI"
+img = "images/badge-dev-with-ai.png"
+weight = 7
+url = "https://cageyv.dev/"
+
+
 [languages]
     [languages.en]
         languageName = "English"
