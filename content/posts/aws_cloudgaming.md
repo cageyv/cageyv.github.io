@@ -15,11 +15,15 @@ series = ["AWS"]
 +++
 
 ## Why Could Gaming? What is the Problem?
-Usually, for PC gaming, it is required to have a nice and fresh PC. But time does not stand still; there are many things that change us. The simplest one is that our PCs just get old, and we can't run new titles at high specs anymore, just because of hardware limitations.
-What's next? If we are going to update our setup, this means a huge upfront cost. We have to pay right now or make a commitment to pay (such as credit) for a high-end PC. And you know what? After a while, it will get old too. I went through that cycle years ago, when I played a lot more than I do today. Every 2-3 years, I just needed to buy a new PC. At the same time, it is bad for the environment, because we just can't make proper hardware utilization.
+Usually, for PC gaming, it is required to have a nice and fresh PC. But time does not stand still; there are many things that change us. The simplest one is that our PCs just get old, and we can't run new titles at high specs anymore, just because of hardware limitations.  
+
+What's next? If we are going to update our setup, this means a huge upfront cost. We have to pay right now or make a commitment to pay (such as credit) for a high-end PC. And you know what? After a while, it will get old too. I went through that cycle years ago, when I played a lot more than I do today. Every 2-3 years, I just needed to buy a new PC. At the same time, it is bad for the environment, because we just can't make proper hardware utilization.  
+
 Another thing is the OS and hardware architecture. My first PC was on Windows 95, and I stuck with the Windows platform for a while until the Windows 7 age. Next, I used Ubuntu up to 20.04. And finally, I came to MacOS. Why did I do it? Because my life changed, different work, different lifestyle, and of course, different PCs.
-So, if we return to the problem: old games, which were created for Windows x32, can't be run on new MacOS ARM. Even Rosetta can't do it.
-With Cloud Gaming, we could run ANY PC game. And if, for example, you are going to move to another apartment, to another town, or another country, should you bring your huge hi-end PC with you? Or will it act as an anchor for you?
+So, if we return to the problem: old games, which were created for Windows x32, can't be run on new MacOS ARM. Even Rosetta can't do it.  
+
+With Cloud Gaming, we could run ANY PC game. And if, for example, you are going to move to another apartment, to another town, or another country, should you bring your huge hi-end PC with you? Or will it act as an anchor for you?  
+
 More than 10 years ago, I decided to switch to laptops and make my life more flexible. And of course, if you are a hardcore gamer, with cloud gaming, you could bring your games on vacation.
 
 ## Which options do we have?
@@ -27,7 +31,9 @@ Option one: Switch to consoles? No way. Or better put, gaming consoles give us a
 Cloud gaming. There are many options for how to play in the cloud. If you don't want to do anything by yourself and the game you like is popular, please go to Geforce NOW or Amazon Luna. But if your game, for example, is not yet released (Early Access) or otherwise too old for major cloud gaming providers, let's see what we can do.
 
 ## Self builded Cloud Gaming PC
-There are several projects that offer Cloud PC Renting. But in that case, you also have to bring your games with you. For me, it sounds a bit scary. I have to log in to my very old Steam account in some place that I don't actually control. Also, they require to pay in advance (monthly or annually). Let's be serious. We are going to play one or two game sessions or maybe just run our favorite game from the past once, and that's it. So, I mean there is no reason to top up a fixed amount or pay a monthly subscription, which we could forget to stop. And that's when AWS comes to us.
+There are several projects that offer Cloud PC Renting. But in that case, you also have to bring your games with you. For me, it sounds a bit scary. I have to log in to my very old Steam account in some place that I don't actually control. Also, they require to pay in advance (monthly or annually).   
+
+Let's be serious. We are going to play one or two game sessions or maybe just run our favorite game from the past once, and that's it. So, I mean there is no reason to top up a fixed amount or pay a monthly subscription, which we could forget to stop. And that's when AWS comes to us.  
 AWS EC2 offers pay-as-you-go pricing, and we could pay per minute in the cloud. 
 
 ## More useful information 
