@@ -12,6 +12,8 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
+enableRobotsTXT = true
+
 #disqusShortname = "yourdiscussshortname"
 
 [params]
