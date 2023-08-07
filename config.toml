@@ -121,9 +121,14 @@ enableRobotsTXT = true
     weight = 5
     url = "https://t.me/cageyv/"
 [[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 6
+    url = "https://twitter.com/cageyvdev"    
+[[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
-    weight = 6
+    weight = 7
     url = "https://cadeyv.dev/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
