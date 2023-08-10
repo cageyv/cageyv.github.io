@@ -10,3 +10,5 @@ hugo.darwin
 hugo.linux
 
 /.idea/
+
+.hugo_build.lock
