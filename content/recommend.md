@@ -12,6 +12,8 @@ slug = "recommend"
   Quickly book a Flight Reservation for your Visa Application. Verifiable on Airline's Websites.
 - [SafetyWing](https://safetywing.com/nomad-insurance/)
   Insurance for nomdas. Travel medical insurance. They cover people from all over the world, while outside their home country.
+- [italki](https://www.italki.com/en/i/ref/GBcBb0)
+  It helps me. Here’s $5 to help kickstart your journey. Give it a try now!
 - [Audible](https://www.audible.com/)
   Audiobooks, Originals, and podcasts
 - [Feedly](https://feedly.com/)
