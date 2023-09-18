@@ -45,6 +45,9 @@ Resource Optimization: Resource usage has been reduced by more than 50% and we w
 - [Nomad Events to Slack](https://github.com/fivexl/nomad-events-to-slack)  
   Get nomad's allocations. Retrieve events from the tasks inside allocations. Post events to Slack channel as a Slack bot using incoming web hooks.  
 
+## Assitance with open source
+- [Containerization fix for redbot](https://github.com/mnot/redbot/pull/314)
+
 ## Old projects
 - Small DevOps transformation
   - Moved legacy systems to Docker and K8S on bare metal
