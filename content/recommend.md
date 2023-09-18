@@ -76,5 +76,5 @@ slug = "recommend"
 - [Exodus](https://www.exodus.com/)
   Exodus Bitcoin & Crypto Wallet. Send, receive, and exchange Bitcoin and 200+ cryptocurrencies with ease on the world's leading Desktop, Mobile and Hardware crypto wallets
 - [FTX](https://ftx.com/profile#a=138883732) Crypto Exchange with staking programs and good integrations
+- [Huobi](https://www.huobi.com/invite/en-us/1f?invite_code=sz478223) Claim Mystery Boxes worth up to 1,500 USDT.
 
-  
