@@ -20,7 +20,8 @@ slug = "recommend"
   Track insights across the web without having to read everything. Got bored with the recommendation system? Like old school RSS? Welcome to Feedly
 - [UnstoppableDomains](https://unstoppabledomains.com/?ref=6ec86747f28e491)
   NFT Domains No Renewal Fees Ever. Use NFT domains as your: Universal username across apps and websites, Website URL, Payment address for wallets and much more!
-
+- [Tutanota](https://mail.tutanota.com/signup?ref=cThEeHUxZXM)
+  Secure email and collaboration. End-to-end encryption. 2-factor authentication. Servers in Germany.
 
 ## IT Services 
 - [AWS - Amazon Web Services](https://aws.amazon.com/)
