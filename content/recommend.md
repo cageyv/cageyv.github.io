@@ -41,6 +41,8 @@ slug = "recommend"
   Check if your email or phone is in a data breach
 - [MXtoolbox](https://mxtoolbox.com/)
   MX Lookup Tool - Check your DNS MX Records online. Blacklists, DMARC, Email Health and etc
+- [Codium](https://codeium.com?referral_id=Y2FnZXl2LmRldkBnbWFpbC5jb20=)
+  The modern coding superpower. A free extension to code with AI.
 - [More](https://github.com/cageyv?tab=stars)
   and more and more tools and services in GitHub Stars
    
