@@ -51,8 +51,6 @@ slug = "recommend"
   and more and more tools and services in GitHub Stars
    
 ## Financial
-- [Toshl](https://toshl.com/)
-  Track all your cards and cash in one place. Finance Accounting for Digital Nomads. Support mulply countries and currencies. 
 - [Wise (Transferwise)](https://wise.com/invite/u/vladimirs792)
   Nice exchange rates. Cheap and fast transfers. Get a discount on your first transfer and try Wise
 - [Deel](https://letsdeel.com/referrals/Vladimir-r50xYno5)
@@ -71,10 +69,6 @@ slug = "recommend"
   Withdrawal Fees on Cryptocurrency Exchanges. Help to find better withdrawal accross 3000+ coins and 35+ exchanges
 - [Changelly](https://changelly.com/?from=btc&to=eth&amount=0.1&ref_id=FP5zqEvOWCoVc4FR) 
   Exchange any crypto instantly. Exchange Bitcoin and 200+ altcoins in a fast, simple and secure way.
-- [crypto.com](https://crypto.com/app/5rvtw9fnpg)
-  Simple crypto app with up to 12% bonus for crypto deposit. Sign up for Crypto.com and we both get $25 USD
-- [CoinBase](https://www.coinbase.com/join/cr12rd)
-  Jump start your crypto portfolio. Coinbase is the easiest place to buy and sell cryptocurrency. Sign up and get started today. Earn, NFT, cards and borrow.
 - [Liquid](https://www.liquid.com/sign-up/?affiliate=Dc4wZKEl1133760)
   Buy, Sell & Trade Crypto. Asian Crypto Exchange owned by Quoine Pte Ltd that based in Singapore. Supports stacking/earn: SNX, USDC, USDT, CEL, ZUSD and others
 - [CEX IO](https://cex.io/r/0/up149981084/0/)
