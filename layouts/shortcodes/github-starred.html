@@ -1,0 +1,9 @@
+{{ $starredJ := getJSON "https://api.github.com/users/cageyv/starred?per_page=100" }}
+Latest 100 stars. Full list here: <a href="https://github.com/cageyv?tab=stars">https://github.com/cageyv?tab=stars</a>
+<ul>
+{{ range $starredJ }}
+   <li>
+      <a href="{{ .html_url }}">{{ .name }}</a> - {{ .description }}
+   </li>
+{{ end }}
+</ul>

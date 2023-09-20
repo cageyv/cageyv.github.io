@@ -47,8 +47,6 @@ slug = "recommend"
   MX Lookup Tool - Check your DNS MX Records online. Blacklists, DMARC, Email Health and etc
 - [Codium](https://cageyv.dev/recommend/codeium)
   The modern coding superpower. A free extension to code with AI.
-- [More](https://github.com/cageyv?tab=stars)
-  and more and more tools and services in GitHub Stars
    
 ## Financial
 - [Wise (Transferwise)](https://cageyv.dev/recommend/wise)
@@ -77,3 +75,5 @@ slug = "recommend"
   Exodus Bitcoin & Crypto Wallet. Send, receive, and exchange Bitcoin and 200+ cryptocurrencies with ease on the world's leading Desktop, Mobile and Hardware crypto wallets
 - [Huobi](https://cageyv.dev/recommend/huobi) Claim Mystery Boxes worth up to 1,500 USDT.
 
+## GitHub Stars
+{{< github-starred >}}
