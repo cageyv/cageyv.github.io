@@ -63,6 +63,8 @@ slug = "recommend"
   Up to USD 1,000 in IBKR stock. Open an account and get a bonus in stocks. IBKR is a global leader in online trading, providing fast and flexible access to over 135 markets in 33 countries
 
 ## Crypto
+- [Ledger](https://cageyv.dev/recommend/ledger)
+  Ledger hardware wallets empower you with the ownership and control of your private keys. Ledger Live enables you to easily manage your crypto transactions. Ledger Live supports 27 coins and more than 1500 ERC-20 tokens
 - [withdrawalfees.com](https://withdrawalfees.com/)
   Withdrawal Fees on Cryptocurrency Exchanges. Help to find better withdrawal accross 3000+ coins and 35+ exchanges
 - [Changelly](https://cageyv.dev/recommend/changelly) 
