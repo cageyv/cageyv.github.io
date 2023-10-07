@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/forrest_gump.jpg"
+featuredImage = "images/posts/films/forrest_gump.webp"
 +++
 

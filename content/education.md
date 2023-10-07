@@ -39,7 +39,7 @@ slug = "education"
 ### NetApp
 
 {{< gallery >}}
-  {{< figure src="/images/certs/netapp_cert.jpg" >}}
+  {{< figure src="/images/certs/netapp_cert.webp" >}}
 {{< /gallery >}}
 
 ### INTUIT (National Open University)

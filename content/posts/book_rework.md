@@ -9,7 +9,7 @@ tags = [
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/rework.jpg"
+featuredImage = "images/posts/books/rework.webp"
 +++
 
 https://www.amazon.com/Rework-Jason-Fried/dp/0307463745

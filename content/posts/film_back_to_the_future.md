@@ -9,6 +9,6 @@ tags = [
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/back_to_the_future.jpg"
+featuredImage = "images/posts/films/back_to_the_future.webp"
 +++
 

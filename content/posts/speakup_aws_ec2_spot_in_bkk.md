@@ -18,14 +18,14 @@ series = ["SpeakUp"]
 
 Set against the backdrop of the tech-forward AWS Office in Bangkok, the AWS User Group Meetup was a melting pot of innovation and collaboration. For CTOs and startup owners, understanding the pulse of the latest in cloud technology is crucial. This gathering provided a vibrant platform to explore, question, and share the most recent advancements in AWS.
 
-![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/1.jpeg)
+![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/1.webp)
 
 ## My Own Perspective
 One of the prime concerns for any CTO or startup owner is maximizing efficiency without inflating costs. During the meetup, I delved into AWS Spot Pricing through Terraform, showcasing how organizations can achieve both. The Terraform Module for AWS Spot Instances isn't just a tool; it's a strategy. By automating Spot Max Prices management, it prevents potential budget overruns and unnecessary resource consumption – every DevOps professional's dream.
 
 The topic seemed to strike a chord with the audience. From startups striving to maintain a lean operational cost to established firms looking for scalability without financial pitfalls, the insights I shared catered to a wide spectrum of cloud users.
 
-![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/2.jpeg)
+![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/2.webp)
 
 ## Future Endeavors
 
@@ -33,7 +33,7 @@ With the positive feedback and stimulating interactions at the meetup, I am invi
 
 Staying abreast of technological shifts and adapting to them is what ensures long-term success. And as this landscape changes, I'm excited to continue sharing strategies and solutions that resonate with the challenges and aspirations of CTOs, startup owners, and DevOps practitioners.
 
-![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/3.jpeg)
+![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/3.webp)
 
 ## Conclusion
 
@@ -43,5 +43,5 @@ I invite every CTO, startup owner, and DevOps professional to access the present
 
 With every public speaking engagement, my aim is not just to educate but also to bridge the gap between cloud technology's potential and its strategic implementation. Here's to more collaborations, insights, and pioneering strides in the world of cloud computing!
 
-![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/4.jpeg)
+![FistImage](/images/posts/speakup_aws_ec2_spot_in_bkk/4.webp)
 

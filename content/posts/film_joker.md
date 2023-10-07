@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/joker.jpg"
+featuredImage = "images/posts/films/joker.webp"
 +++
 

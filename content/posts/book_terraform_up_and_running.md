@@ -9,7 +9,7 @@ tags = [
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/terraform_up_and_running.jpg"
+featuredImage = "images/posts/books/terraform_up_and_running.webp"
 externalLink = "https://www.oreilly.com/library/view/terraform-up-and/9781098116736/"
 +++
 

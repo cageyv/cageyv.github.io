@@ -51,7 +51,7 @@ AWS EC2 offers pay-as-you-go pricing, and we could pay per minute in the cloud.
 Actually, I tested many ways in blog posts above, 
 but in the end, I'm using `NVIDIA Gaming PC - Windows Server 2019` + Microsoft RDP client 
 There are some useful settings on client side
-![FistImage](/images/posts/aws_cloudgaming/1.png)
+![FistImage](/images/posts/aws_cloudgaming/1.webp)
 
 Setup is pretty simple:
 - Run Terraform code https://github.com/cageyv/terraform-aws-ec2-cloud-gaming 

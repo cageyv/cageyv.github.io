@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/parasite.jpg"
+featuredImage = "images/posts/films/parasite.webp"
 +++
 

@@ -8,7 +8,7 @@ tags = [
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/investing_in_your_20s_and_30s.jpg"
+featuredImage = "images/posts/books/investing_in_your_20s_and_30s.webp"
 externalLink = "https://www.amazon.com/Investing-Dummies-Business-Personal-Finance/dp/1119431409"
 +++
 

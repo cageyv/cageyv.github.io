@@ -18,11 +18,11 @@ Developers often hardcode credentials on a public or private GitHub repository, 
 
 By executing fraudulent software, cybercriminals can easily steal all the data from the folder or a whole directory with your, your friends’, and clients’ credentials. Even the AWS support team is exhausted with constant tickets regarding stolen credentials from public Git repos. Here's why if you commit keys, expect an email in 3-5 minutes saying that the IAM policy has been applied. It means that you can’t get rid of the policy or destroy exposed credentials. 
 
-![FistImage](/images/posts/aws_vault/1.png)
+![FistImage](/images/posts/aws_vault/1.webp)
 
 Even such measures don’t solve the problem. According to the [Verizon 2022 Data Breach Investigations Report](https://www.techtarget.com/searchsecurity/news/252520686/Verizon-DBIR-Stolen-credentials-led-to-nearly-50-of-attacks), there’s been an almost 30% increase in stolen credentials, proving it to be a true-and-tried method to gain unauthorized access to an organization for the past five years. In fact, they account for almost half breaches.
 
-![FistImage](/images/posts/aws_vault/2.png)
+![FistImage](/images/posts/aws_vault/2.webp)
 
 For the past 12 months, [31,000+](https://outpost24.com/blog/FTSE-100-compromised-credential-study-2022) stolen and leaked credentials were detected for FTSE 100 companies, while almost 40% were disclosed on the underground. The same happened with 1 billion records of Chinese [private citizens’ data](https://www.reuters.com/world/china/hacker-claims-have-stolen-1-bln-records-chinese-citizens-police-2022-07-04/) stolen from the Shanghai police in Summer 2022. All this was possible due to [exposed credentials](https://twitter.com/cz_binance/status/1543905416748359680) on CSDN—the Chinese Software Development Network. 
 
@@ -35,7 +35,7 @@ Aws-vault is a tool that has tackled the problem of stolen credentials for six y
 - **Secures access to products under development.** An engineer who works on a digital solution can run tests without committing keys in public Git repos. Even if you commit your secrets in a private Git repo, you can face security risks. Since no alerts will be sent, you will find out about the incident when your product is in public access—for example, if you are about to begin a presentation, but the access to the solution is blocked.
 - **Controls what type of credentials is used.** One common problem a developer faces is not understanding what credential types are used by apps. They can be local, static hardcoded ones, environment variables, containers, EC2 Instance profiles, or ECS Container task roles. Aws-vault populates environment variables but can also emulate EC2 metadata servers and ECS credential servers. 
 
-![FistImage](/images/posts/aws_vault/3.png)
+![FistImage](/images/posts/aws_vault/3.webp)
 
 - **Provides seamless access across various apps.** Using several accounts is the norm for developers. Each account has its own access permissions. Without hardcoding, you need to think about where to store credentials and how to distribute them across a team securely. With aws-vault, you don’t need to guard your AWS Multi-Account strategy, thinking about whether to commit keys or not. The tool sends dynamic credentials that expire in a short timeframe, which leaves a reduced window of opportunity for a hacker.
 - **Convenient navigation across several apps.** Since your credentials are of the environment type, infrastructure cloud tools using AWS SDK (for example, Terraform) can easily take them and use them to permit you access. If you want to close all sessions, run the exit command. Any app automatically refreshes dynamic credentials as needed. 
@@ -44,7 +44,7 @@ Aws-vault is a tool that has tackled the problem of stolen credentials for six y
 
 Most likely, currently, your logins and passwords are hardcoded. You may believe that it’s a convenient way to share credentials with your team without passing them over manually. Therefore, your code looks as follows:
 
-![FistImage](/images/posts/aws_vault/4.png)
+![FistImage](/images/posts/aws_vault/4.webp)
 
 In this case, your data can be easily stolen and used for malicious purposes. Here’s a brief guide on how to boost your credentials’ security with aws-vault:
 - Create an AWS account if you don’t have one. Create an IAM user and define roles. They allow you to access keys used with the API or CLI. Set secret keys, passwords, and action and access permissions.
@@ -52,21 +52,21 @@ In this case, your data can be easily stolen and used for malicious purposes. He
 
 Once you are set, you can start generating environment credentials with aws-vault. Suppose you have a **primitive JavaScript-based app** to test. You initiate a command for the vault to take dynamic credentials and add them to development environments for the app to run. With AWS SDK, the JavaScript app will get the credentials. 
 
-![FistImage](/images/posts/aws_vault/5.png)
+![FistImage](/images/posts/aws_vault/5.webp)
 
 The process is the same if you want to deliver environmental credentials to a simple docker. Slightly edit a regular docker command, and you will receive environmental credentials.
 
-![FistImage](/images/posts/aws_vault/6.png)
+![FistImage](/images/posts/aws_vault/6.webp)
 
 Aws-vault also allows you to **simulate the ESC credential server and ES2 Instance Profile**. For example, if you use the tool to deliver the credentials to **docker-compose**, aws-vault will pretend to be a part of the server responsible for credential transfer. The results in the development environment show that aws-vault launched a local simulation with a specific token just as on ESC. There will be remote credentials, while access key and session tokens aren’t transferred. 
 
-![FistImage](/images/posts/aws_vault/7.png)
+![FistImage](/images/posts/aws_vault/7.webp)
 
-![FistImage](/images/posts/aws_vault/8.png)
+![FistImage](/images/posts/aws_vault/8.webp)
 
 If you want to simulate ES2 Instance Profile, the tool will run a local proxy. Here, you can’t avoid using root. As a result, you get EC2 metadata credentials. 
 
-![FistImage](/images/posts/aws_vault/9.png)
+![FistImage](/images/posts/aws_vault/9.webp)
 
 You can learn more about all the explained examples here: https://github.com/cageyv/aws-vault-examples
 

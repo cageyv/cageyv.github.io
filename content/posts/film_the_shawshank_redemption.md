@@ -7,7 +7,7 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/the_shawshank_redemption.jpg"
+featuredImage = "images/posts/films/the_shawshank_redemption.webp"
 +++
 
 https://www.imdb.com/title/tt0111161/

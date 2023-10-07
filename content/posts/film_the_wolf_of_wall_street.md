@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/the_wolf_of_wall_street.jpg"
+featuredImage = "images/posts/films/the_wolf_of_wall_street.webp"
 +++
 

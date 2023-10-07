@@ -9,7 +9,7 @@ tags = [
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/the_6_types_of_working_genius.jpg"
+featuredImage = "images/posts/books/the_6_types_of_working_genius.webp"
 +++
 
 https://www.amazon.com/Types-Working-Genius-Understand-Frustrations-ebook/dp/B09XGPCM36

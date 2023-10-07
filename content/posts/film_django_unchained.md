@@ -7,7 +7,7 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/django_unchained.jpg"
+featuredImage = "images/posts/films/django_unchained.webp"
 +++
 
 https://www.imdb.com/title/tt1853728/

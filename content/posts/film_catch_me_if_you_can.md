@@ -6,6 +6,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/catch_me_if_you_can.jpg"
+featuredImage = "images/posts/films/catch_me_if_you_can.webp"
 externalLink = "https://www.imdb.com/title/tt0264464/"
 +++

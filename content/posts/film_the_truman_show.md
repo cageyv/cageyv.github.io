@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/the_truman_show.jpg"
+featuredImage = "images/posts/films/the_truman_show.webp"
 +++
 

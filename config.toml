@@ -21,7 +21,7 @@ enableRobotsTXT = true
     description = "Vladimir Samoylov's personal website"
     keywords = "devops,k8s,aws,terraform,cloud,developer,personal"
     info = "Cloud Engineer and Independent consultant"
-    avatarURL = "images/avatar.jpg"
+    avatarURL = "images/avatar.webp"
     #gravatar = "john.doe@example.com"
     footerContent = "Hosted on GitHub Pages."
 
@@ -135,43 +135,43 @@ enableRobotsTXT = true
 
 [[params.badges]]
 name = "AWS Community Builder"
-img = "images/aws-community-builders.png"
+img = "images/aws-community-builders.webp"
 weight = 1
 url = "https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Samoylov%2BVladimir&cb-cards.q_operator=AND"
 
 [[params.badges]]
 name = "AWS Solutions Architect Assocaiate"
-img = "images/aws-certified-solutions-architect-associate.png"
+img = "images/aws-certified-solutions-architect-associate.webp"
 weight = 2
 url = "https://www.credly.com/badges/321e975e-ef89-404e-ad6e-63db23d21f27/public_url"
 
 [[params.badges]]
 name = "HashiCorp Terraform Assocaiate"
-img = "images/hashicorp-certified-terraform-associate.png"
+img = "images/hashicorp-certified-terraform-associate.webp"
 weight = 3
 url = "https://www.credly.com/badges/096e9341-0ff8-4568-ab17-b2da022dd6dc/public_url"
 
 [[params.badges]]
 name = "Certified ScrumMaster (CSM)"
-img = "images/seal-csm.png"
+img = "images/seal-csm.webp"
 weight = 4
 url = "https://bcert.me/puwvubqw"
 
 [[params.badges]]
 name = "AWS Certified Cloud Practitioner"
-img = "images/aws-certified-cloud-practitioner.png"
+img = "images/aws-certified-cloud-practitioner.webp"
 weight = 5
 url = "https://www.credly.com/badges/b80c3f21-5cf9-4fd5-a27a-b672cf0b80fd/public_url "
 
 [[params.badges]]
 name = "Fivexl"
-img = "images/fivexl.png"
+img = "images/fivexl.webp"
 weight = 6
 url = "https://fivexl.io/author/vladimir-samoylov/"
 
 [[params.badges]]
 name = "DevWithAI"
-img = "images/badge-dev-with-ai.png"
+img = "images/badge-dev-with-ai.webp"
 weight = 7
 url = "https://cageyv.dev/"
 

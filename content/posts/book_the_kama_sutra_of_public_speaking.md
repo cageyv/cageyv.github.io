@@ -7,6 +7,6 @@ tags = []
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/the_kama_sutra_of_public_speaking.jpg"
+featuredImage = "images/posts/books/the_kama_sutra_of_public_speaking.webp"
 +++
 

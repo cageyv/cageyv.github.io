@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/inception.jpg"
+featuredImage = "images/posts/films/inception.webp"
 +++
 

@@ -18,7 +18,7 @@ Saving money on Amazon Web Services (AWS) Spot Instances can be a challenging ta
 
 How do you avoid a situation in which, for example, everything went perfect in November, but in December, the prices doubled amid the holiday hype — and you got not only an expensive system but also one with interruptions? Let's examine why this happens. For this, let's look at Spot Instance allocation strategies and see how you can use the Terraform module with no issues and save money at the same time.
 
-![FistImage](/images/posts/aws_ec2_spot/1.jpeg)
+![FistImage](/images/posts/aws_ec2_spot/1.webp)
 
 A Spot Instance is an unused EC2 (Elastic Compute Cloud) resource put up for auction at a minimal price. Its main drawback is interruptions, so, be ready. Spot Instance interruptions are not out of the ordinary — they are part of the workflow rather than some kind of incident.
 
@@ -51,7 +51,7 @@ This also works well with an Auto Scaling Group and instances of multiple types,
 
 The method of improving spot resilience with the new signal EC2 Rebalance Recommendation was made available in 2020. It can arrive sooner than the standard two-minute Spot Instance interruption notice. Thus, EC2 Auto Scaling launched the feature of Capacity Rebalancing:
 
-![FistImage](/images/posts/aws_ec2_spot/2.png)
+![FistImage](/images/posts/aws_ec2_spot/2.webp)
 
 ### EC2 Auto Scaling Capacity Rebalancing
 Let's get into more detail about it since it added more stability to the spots. First, you get a message notifying you of the Capacity Rebalancing signal. The Auto Scaling Group (or a third-party script from which you have received this signal) then starts a new instance running through all of its processes. After that, the instance that has an elevated risk of interruption and that received the Capacity Rebalancing signal will begin to terminate.
@@ -65,12 +65,12 @@ This is probably the most important question. To answer, we’ll use a couple of
 - An additional Spot Instance data feed — a detailed report in S3, which is enabled in the settings.
 Let's first examine how to use the Cost Explorer. We’ve grouped the spots by Instance Type, filtered them by Usage Type Group EC2 Running Hours, and set the important option called Purchase Option Spot. As a result, we get two graphs: Costs and Usage:
 
-![FistImage](/images/posts/aws_ec2_spot/3.png)
+![FistImage](/images/posts/aws_ec2_spot/3.webp)
 
 Technically, they can be used to determine the average price per day — just divide one by the other. If you add filters by tags, you can get a general idea of what is happening. But when you get many different Instance Types in the results, it becomes more difficult. Besides, there is no detailed allocation by hour by default. Of course, it can be included in the Cost Explorer, but it’s not really necessary for this task, and it’s also not free.
 Therefore, let’s now take a look at the Spot Instance data feed. New information is added every hour but with delays. The tests show that delays can last from 15 minutes to several hours:
 
-![FistImage](/images/posts/aws_ec2_spot/4.png)
+![FistImage](/images/posts/aws_ec2_spot/4.webp)
 
 The most important thing that you can get from the Spot Instance data feed is detailed information with the instance type, the maximum price, the current market price, and, finally, the price you paid (the Charge column). As for the set-up process, you’ll need a slightly customized ACL for S3, although there will be no trouble with that.
 
@@ -81,7 +81,7 @@ Therefore, you can use an important but lesser-known setting called Spot Max Pri
 
 Setting the Spot Max Price is very important. If you fail to specify any value, you automatically agree to pay any price up to on-demand (which is essentially the price ceiling). For example, look at the price dynamics during the December holidays for three different Instance Types:
 
-![FistImage](/images/posts/aws_ec2_spot/5.png)
+![FistImage](/images/posts/aws_ec2_spot/5.webp)
 
 At first, the most cost-effective type was t3a, but since it’s cheaper by 10% on average, the demand for it started growing. People began buying it at a rapid pace, and at some point, t3 became more cost-effective. And when people bought it out, c5 became cheaper, which was rather unexpected.
 
@@ -96,16 +96,16 @@ The module solves the problem of automating how the Spot Max Price is calculated
 - spot_price_current_max_mod — all Instance Types in all AZs with increased reliability.
 Let's go through them from simple to complex using the price matrix as an example:
 
-![FistImage](/images/posts/aws_ec2_spot/6.png)
+![FistImage](/images/posts/aws_ec2_spot/6.webp)
 
 First, we get the current spot_price without opening the UI and Spot price history. This is the simplest example:
 
-![FistImage](/images/posts/aws_ec2_spot/7.png)
+![FistImage](/images/posts/aws_ec2_spot/7.webp)
 
 ### Minimum Price
 This is a slightly more complex example if your goal is to run the cheapest instance possible. In this situation, use the spot_price_current_min behavior:
 
-![FistImage](/images/posts/aws_ec2_spot/8.png)
+![FistImage](/images/posts/aws_ec2_spot/8.webp)
 
 In this case, instances of at least one Instance Type will be launched in one Availability Zone. But even though multiple Availability Zones are passed, all instances end up in the same zone because only one is selected. Remember that there is always just one instance that is the cheapest.
 
@@ -114,18 +114,18 @@ Therefore, this behavior is not very effective. A better approach is to look for
 
 ### Optimal Price
 
-![FistImage](/images/posts/aws_ec2_spot/9.png)
+![FistImage](/images/posts/aws_ec2_spot/9.webp)
 
 This behavior makes it possible to run at least one Instance Type in all Availability Zones, which solves the problem of determining which Instance Type is more cost-effective: t3, t3a, c5, or some of the r types. When prices change, you will switch to the most cost-effective Instance Types for each Availability Zone. If prices go up, you will lose one Availability Zone at a time, just like when you disable them. Returning to our table, we see a lot more options:
 
-![FistImage](/images/posts/aws_ec2_spot/10.png)
+![FistImage](/images/posts/aws_ec2_spot/10.webp)
 
 Only r5 instances will be available in Availability Zone 1c at 0.20. But if they increase to 0.30, you will still have two more Availability Zones and two other Instance Types. Important note: such a transfer will interrupt the work of those instances whose prices have increased. But when it comes to spots, you always need to be ready for interruptions and consider them commonplace.
 All of the previous options were focused on the highest savings, but if you need more stability, the spot_price_current_max behavior will do.
 
 ### Maximum Current Price
 
-![FistImage](/images/posts/aws_ec2_spot/11.png)
+![FistImage](/images/posts/aws_ec2_spot/11.webp)
 
 With this behavior, all Instance Types can be launched in all Availability Zones. This will solve the problem of having no Spot Instances by determining the price for different types. Also, this behavior allows for a large delay between terraform apply, and the module doesn’t need to be run as frequently. This is especially convenient if the module is sometimes run manually, not in CI/CD.
 In this case, judging by the table, any Instance Type can be launched in any AZ because none of them exceed the maximum price. This means that if you run r5 at 1a, which costs 0.20, you will pay that price up until it reaches 0.30. This behavior allows you to be autonomous from all Instance Types and Availability Zones. If you add many Instance Types, you can cover all cases and always have spots.
@@ -134,7 +134,7 @@ In this case, judging by the table, any Instance Type can be launched in any AZ 
 
 In case you need even more stability, and you are ready to sometimes pay an extra 5-10%, there is the spot_price_current_max_mod behavior:
 
-![FistImage](/images/posts/aws_ec2_spot/12.png)
+![FistImage](/images/posts/aws_ec2_spot/12.webp)
 
 This behavior reduces the possibility of interruptions from minor price fluctuations and will help if Terraform is run extremely rarely or manually. You can specify that you’re willing to pay in advance, for example, an extra 10% on top of the current price, i.e., 0.33 instead of 0.30. This is a small extra pay for reduced interruptions.
 Bear in mind that the extra pay largely depends on the number of instances you use. A difference of +2¢ can amount to $14 a month for each EC2 instance, and if you use 100 of them, it can turn into $1,400. Therefore, calculate whether reducing the possibility of interruptions is worth it for you. If you still think it's worth it, you can apply this behavior to all other scenarios through the custom price modifier.

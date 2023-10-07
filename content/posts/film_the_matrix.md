@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/the_matrix.jpg"
+featuredImage = "images/posts/films/the_matrix.webp"
 +++
 

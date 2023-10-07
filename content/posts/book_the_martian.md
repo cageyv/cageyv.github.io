@@ -7,6 +7,6 @@ tags = []
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/the_martian.jpg"
+featuredImage = "images/posts/books/the_martian.webp"
 +++
 

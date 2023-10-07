@@ -20,7 +20,7 @@ The recent AWS CloudDay Thailand at the Queen Sirikit National Convention Centre
 
 Amid the vastness of the event, the Developer Lounge was a distinctive gem. Though smaller in scale, its value was undeniable, offering a blend of intimacy and innovation where in-depth discussions and exchanges thrived.
 
-![FistImage](/images/posts/speakup_sso_evevator_in_bkk/1.jpeg)
+![FistImage](/images/posts/speakup_sso_evevator_in_bkk/1.webp)
 
 ## My Own Perspective
 For CTOs, StartUp founders, and DevOps pros, navigating cross-account IAM access without compromising on security is a challenge. My presentation delved into this very issue, highlighting the potential of temporary elevated access and the AWS IAM Identity Center to bolster security stances.
@@ -28,7 +28,7 @@ The temporary elevated access approach, also known as just-in-time access, can s
 
 The Developer Lounge offered more than just a stage; it was a platform for enriching dialogue, fostering idea exchanges, and building mutual understanding. The audience's response was overwhelmingly positive, with many expressing interest in the topic and its potential applications.
 
-![FistImage](/images/posts/speakup_sso_evevator_in_bkk/2.jpeg)
+![FistImage](/images/posts/speakup_sso_evevator_in_bkk/2.webp)
 
 ## Future Endeavors
 
@@ -36,7 +36,7 @@ As someone entrenched in the dynamic world of tech, I'm excited about the future
 
 On the horizon? Singapore. I'm aspiring to be a speaker at an event. If someone invites me, I'll definitely be there. I'm also looking forward to sharing more insights and experiences through blog posts. My goal is to continue bridging the gap between cloud technology's potential and its strategic implementation.
 
-![FistImage](/images/posts/speakup_sso_evevator_in_bkk/3.jpeg)
+![FistImage](/images/posts/speakup_sso_evevator_in_bkk/3.webp)
 
 ## Conclusion
 
@@ -45,8 +45,8 @@ The AWS CloudDay Thailand was more than an event—it was a clear signal of wher
 Discover more about securing your infrastructure from day-0 [here](https://www.slideshare.net/VladimirSamoylov2/increase-your-security-posture-with-temporary-elevated-access-and-aws-iam-identity-center)
 Want to know more about SSO Elevator? Read FivexL blog post [here](https://fivexl.io/blog/sso-elevator/)
 
-![FistImage](/images/posts/speakup_sso_evevator_in_bkk/4.jpeg)
+![FistImage](/images/posts/speakup_sso_evevator_in_bkk/4.webp)
 
-![FistImage](/images/posts/speakup_sso_evevator_in_bkk/5.jpeg)
+![FistImage](/images/posts/speakup_sso_evevator_in_bkk/5.webp)
 
-![FistImage](/images/posts/speakup_sso_evevator_in_bkk/6.jpeg)
+![FistImage](/images/posts/speakup_sso_evevator_in_bkk/6.webp)

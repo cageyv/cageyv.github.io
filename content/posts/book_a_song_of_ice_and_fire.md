@@ -6,7 +6,7 @@ tags = []
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/a_song_of_ice_and_fire.jpg"
+featuredImage = "images/posts/books/a_song_of_ice_and_fire.webp"
 externalLink = "https://www.amazon.com/Song-Ice-Fire-Volumes/dp/0007477155"
 +++
 

@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/trainspotting.jpg"
+featuredImage = "images/posts/films/trainspotting.webp"
 +++
 

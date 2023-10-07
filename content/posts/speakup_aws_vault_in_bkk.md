@@ -18,14 +18,14 @@ At the recent AWS Meetup – DevTalk in Bangkok, I joined a group of cloud afici
 
 The event was a resounding success, attracting a packed audience of 500 attendees who were eager to delve into the latest trends and insights in the world of AWS and cloud technologies. The event featured a series of talks by industry experts, including Werner Vogels, Donnie Prakoso, Vit Niennattrakul, Ankit Mehta, and myself. The event was a testament to the growing interest in cloud technologies and the need for a community-driven approach to knowledge-sharing. 
 
-![FistImage](/images/posts/speakup_aws_vault_in_bkk/1.jpeg)
+![FistImage](/images/posts/speakup_aws_vault_in_bkk/1.webp)
 
 ## My Own Perspective
 Sharing the stage with industry stalwarts like Werner Vogels and Donnie Prakoso, my focus was on aws-vault—a tool I believe every startup and tech team should consider. In an era where data breaches can bankrupt startups or severely dent a company's reputation, the elimination of hardcoded credentials is more than best practice—it's a necessity. My talk centered around how aws-vault is not just a tool but a strategy to preemptively combat data leakage threats.
 
 Every startup owner, CTO, and DevOps professional knows that a small oversight in security can lead to catastrophic outcomes. This event was a testament to the collective drive of our community to ensure that we're all equipped with the knowledge and tools to protect our businesses.
 
-![FistImage](/images/posts/speakup_aws_vault_in_bkk/2.jpeg)
+![FistImage](/images/posts/speakup_aws_vault_in_bkk/2.webp)
 
 ## Future Endeavors
 
@@ -33,7 +33,7 @@ Feedback from the event reinforced my belief in the necessity of constant learni
 
 For startups and businesses looking to optimize their operational costs while maximizing security, understanding tools like aws-vault is invaluable. The balance of cost-saving while ensuring top-notch security is a dance every CTO and startup owner should master.
 
-![FistImage](/images/posts/speakup_aws_vault_in_bkk/3.jpeg)
+![FistImage](/images/posts/speakup_aws_vault_in_bkk/3.webp)
 
 ## Conclusion
 
@@ -41,5 +41,5 @@ The AWS Meetup – DevTalk served as a reminder that in the rapidly advancing cl
 
 As we navigate the complexities of AWS and cloud security, collaboration and proactive learning will be our guiding lights. Stay connected for more insights tailored to help you lead and innovate securely.
 
-![FistImage](/images/posts/speakup_aws_vault_in_bkk/4.jpeg)
+![FistImage](/images/posts/speakup_aws_vault_in_bkk/4.webp)
 

@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/star_wars.jpg"
+featuredImage = "images/posts/films/star_wars.webp"
 +++
 

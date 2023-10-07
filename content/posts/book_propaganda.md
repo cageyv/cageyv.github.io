@@ -6,7 +6,7 @@ tags = []
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/propaganda.jpg"
+featuredImage = "images/posts/books/propaganda.webp"
 externalLink = "https://www.amazon.com/Propaganda-Edward-Bernays/dp/0970312598"
 +++
 

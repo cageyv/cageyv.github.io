@@ -7,6 +7,6 @@ tags = []
 categories = [
     "film",
 ]
-featuredImage = "images/posts/films/fight_club.jpg"
+featuredImage = "images/posts/films/fight_club.webp"
 +++
 

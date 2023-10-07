@@ -8,7 +8,7 @@ tags = [
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/atomic_habits.jpg"
+featuredImage = "images/posts/books/atomic_habits.webp"
 externalLink = "https://jamesclear.com/atomic-habits"
 +++
 
