@@ -26,6 +26,12 @@ slug = "education"
 
 {{< gallery dir="images/certs/hashicorp" />}}
 
+### FinOps
+
+{{< gallery >}}
+  {{< figure src="/images/certs/finops_cert.webp" >}}
+{{< /gallery >}}
+
 ### Udemy
 [https://udemy.com](https://udemy.com/)
 
