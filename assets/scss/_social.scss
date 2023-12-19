@@ -1,0 +1,6 @@
+.container.centered .social ul li a {
+    font-size: 4rem; 
+    @media only screen and (max-width: 768px) {
+        font-size: 2.2rem;
+    }
+}

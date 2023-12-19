@@ -55,7 +55,7 @@ enableRobotsTXT = true
     customCSS = []
 
     # Custom SCSS
-    customSCSS = []
+    customSCSS = ["scss/extender.scss"]
 
     # Custom JS
     customJS = []

@@ -1,0 +1,34 @@
+.badges {
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+  
+    li {
+      max-width: 30%;
+      flex: 1 1 auto; // This allows the flex items to grow and shrink.
+      overflow: hidden; // Prevents content from spilling out.
+      margin: 5px; // Adds some space between the badges.
+      box-sizing: border-box; // Includes padding and border in the element's total width and height.
+  
+      a {
+        display: block; // Ensures the anchor tag behaves like a block for the full click area.
+        text-decoration: none; // Optional: Removes the underline from links.
+  
+        &:hover {
+          text-decoration: underline; // Optional: Adds an underline on hover for better UX.
+        }
+      }
+  
+      img {
+        max-width: 100%; // Make sure the image is responsive within the container.
+        height: auto; // Maintain aspect ratio.
+        display: block; // Removes bottom space under the image.
+      }
+    }
+  }
+  
