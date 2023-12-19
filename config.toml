@@ -129,7 +129,7 @@ enableRobotsTXT = true
     name = "RSS"
     icon = "fa fa-rss"
     weight = 7
-    url = "https://cadeyv.dev/index.xml"
+    url = "https://cageyv.dev/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
