@@ -55,6 +55,14 @@ slug = "about"
 ## Interests that Fuel My Professional Drive
 "Beyond the tech world, I find joy in programming, public speaking, reading, and organizing. These passions not only enrich my life but also enhance my professional skills."
 
+## Books
+
+{{< posts-gallery category="book" />}}
+
+## Films
+
+{{< posts-gallery category="film" />}}
+
 ## Ready to Connect?
 
 "If my story resonates with you and you're looking for someone to bring your tech vision to life, let's chat. You can reach out to me via the button bellow, [LinkedIn](https://www.linkedin.com/in/vladimirsamoylov/), and [GitHub](https://github.com/cageyv). Let's make tech magic happen together!"
