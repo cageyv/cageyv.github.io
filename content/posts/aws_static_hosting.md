@@ -14,7 +14,7 @@ series = ["AWS"]
 
 Today, we dive into the versatile and dynamic world of AWS, exploring the numerous avenues for hosting a simple, yet pivotal, web element - the static HTML file. AWS, known for its robust and expansive cloud services, offers a plethora of methods for this seemingly straightforward task. Each method comes with its own set of features and benefits, suitable for various needs and complexities. From the efficient S3 buckets to the comprehensive AWS Amplify, we're covering a spectrum of options that cater to different scales and requirements. So, let's unpack these methods and see how they align with your DevOps strategies, business goals, and IT needs.
 
-![First Image](/images/posts/aws_static_hosting/1.png)
+![First Image](/images/posts/aws_static_hosting/1.webp)
 
 ## 1. S3 Bucket + CloudFront CDN
 The standard yet powerful choice. Uploading your HTML file to an S3 bucket and integrating it with CloudFront is not just about simplicity; it's about reliability and performance. This method is a staple in the AWS toolkit, favored for its security and scalability.
@@ -56,7 +56,7 @@ And the last one is the most interesting.
 
 ## 11. AWS Amplify
 
-![First Image](/images/posts/aws_static_hosting/2.png)
+![First Image](/images/posts/aws_static_hosting/2.webp)
 
 Amplify stands out as an all-encompassing solution, particularly appealing for projects that go beyond a single HTML file. Its seamless integration with S3, CloudFront, and git-based workflows, combined with CI/CD capabilities, makes it an attractive option for agile development environments and rapid deployment needs.
 

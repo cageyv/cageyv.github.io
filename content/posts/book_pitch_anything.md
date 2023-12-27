@@ -8,7 +8,7 @@ tags = [
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/pitch_anything.png"
+featuredImage = "images/posts/books/pitch_anything.webp"
 +++
 
 https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854

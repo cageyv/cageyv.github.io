@@ -21,7 +21,7 @@ As we approach the end of 2023, SCB Bank's lack of OpenBanking support means the
 ## Conversion from SCB Easy App Statement to MoneyWiz App:
 This script's primary function is to facilitate the conversion of transaction data from the SCB Easy App's PDF format into a form compatible with MoneyWiz. It's all about easing the process for MoneyWiz users, helping them save time and manage their finances more efficiently.
 
-![image1](/images/posts/opensource_scb_to_moneywiz/1.png)
+![image1](/images/posts/opensource_scb_to_moneywiz/1.webp)
 
 ## Inspiration and Problem-Solving Approach:
 Inspired by the agile and solution-centric startup culture, I realized focusing on features, not perfection, was the key. It was about creating a tool that worked well, fast, and addressed the main pain point – seamlessly importing bank transactions into accounting software.
