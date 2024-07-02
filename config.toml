@@ -146,45 +146,51 @@ weight = 2
 url = "https://www.credly.com/badges/29dfa08e-4ebd-46e7-a7e9-d3ff52aa80be/public_url"
 
 [[params.badges]]
+name = "AWS Certified Security – Specialty"
+img = "images/aws-certified-security-specialty.webp"
+weight = 3
+url = "https://www.credly.com/badges/4b64e443-c7bd-4690-8537-288f7786f708/public_url"
+
+[[params.badges]]
 name = "HashiCorp Terraform Assocaiate"
 img = "images/hashicorp-certified-terraform-associate.webp"
-weight = 3
+weight = 4
 url = "https://www.credly.com/badges/096e9341-0ff8-4568-ab17-b2da022dd6dc/public_url"
 
 [[params.badges]]
 name = "AWS Solutions Architect Assocaiate"
 img = "images/aws-certified-solutions-architect-associate.webp"
-weight = 4
+weight = 5
 url = "https://www.credly.com/badges/321e975e-ef89-404e-ad6e-63db23d21f27/public_url"
 
 [[params.badges]]
 name = "Certified ScrumMaster (CSM)"
 img = "images/seal-csm.webp"
-weight = 5
+weight = 6
 url = "https://bcert.me/puwvubqw"
 
 [[params.badges]]
 name = "FinOps Certified Practitioner (FOCP)"
 img = "images/focp-finops-certified-practitioner.2.webp"
-weight = 6
+weight = 7
 url = "https://www.credly.com/badges/09676047-6084-4ed3-ab49-4f73dc0d5d5c/public_url"
 
 [[params.badges]]
 name = "AWS Certified Cloud Practitioner"
 img = "images/aws-certified-cloud-practitioner.webp"
-weight = 7
+weight = 8
 url = "https://www.credly.com/badges/b80c3f21-5cf9-4fd5-a27a-b672cf0b80fd/public_url "
 
 [[params.badges]]
 name = "Fivexl"
 img = "images/fivexl.webp"
-weight = 8
+weight = 9
 url = "https://fivexl.io/author/vladimir-samoylov/"
 
 [[params.badges]]
 name = "DevWithAI"
 img = "images/badge-dev-with-ai.webp"
-weight = 9
+weight = 10
 url = "https://cageyv.dev/"
 
 

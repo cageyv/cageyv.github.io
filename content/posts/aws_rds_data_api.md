@@ -16,7 +16,7 @@ series = ["AWS"]
 ## Introduction
 Amazon Web Services (AWS) continually innovates to enhance user experience and efficiency. A prime example of this is the recent update to the RDS Data API, particularly for Amazon Aurora PostgreSQL-Compatible Edition. This update is a game-changer, as it offers users the ability to access Aurora clusters via a secure HTTP endpoint. The key here is the removal of rate limits and the elimination of the need for database drivers and managing connections. 
 
-![Alt text](/images/posts/aws_rds_data_api/image1.png)
+![Alt text](/images/posts/aws_rds_data_api/image1.webp)
 
 ## Main Features of the Redesigned Data API
 The redesigned Data API is not just an incremental update; it's a significant overhaul aimed at scalability and ease of use. Here's what you need to know:
