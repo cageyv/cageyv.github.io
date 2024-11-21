@@ -6,6 +6,7 @@ tags = [
     "aws",
     "cloudtrail",
     "slack",
+    "rds",
 ]
 categories = [
     "aws",

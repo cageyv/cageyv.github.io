@@ -8,7 +8,7 @@ tags = [
 categories = [
     "book",
 ]
-featuredImage = "images/posts/books/Le_Mythe_de_Sisyphe.jpg"
+featuredImage = "images/posts/books/Le_Mythe_de_Sisyphe.webp"
 +++
 
 https://www.amazon.com/Myth-Sisyphus-Vintage-International-ebook/dp/B07HLQQZ3L
