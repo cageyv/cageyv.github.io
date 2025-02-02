@@ -1,7 +1,6 @@
 +++
 title = "Experience"
 slug = "experience"
-lang = "th"
 +++
 
 - Sep 2023 - present: Principal Consultant | Cloud Engineer at Firi

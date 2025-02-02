@@ -1,7 +1,6 @@
 +++
 title = "Recommend"
 slug = "recommend"
-lang = "th"
 +++
 
 ## Servies

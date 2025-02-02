@@ -234,36 +234,36 @@ url = "https://cageyv.dev/"
     [languages.th]
         languageName = "ไทย"
         weight = 2
-        contentDir = "content_th"
+        disabled = false
 
         [languages.th.menu]
 
             [[languages.th.menu.main]]
             name = "เกี่ยวกับ"
             weight = 1
-            url = "th/about/"
+            url = "about/"
 
             [[languages.th.menu.main]]
             name = "บล็อก"
             weight = 2
-            url = "th/posts/"
+            url = "posts/"
 
             [[languages.th.menu.main]]
             name = "ปสก"
             weight = 3
-            url = "th/experience/"
+            url = "experience/"
 
             [[languages.th.menu.main]]
             name = "โปรเจค"
             weight = 4
-            url = "th/projects/"
+            url = "projects/"
 
             [[languages.th.menu.main]]
             name = "ศึกษา"
             weight = 5
-            url = "th/education/"
+            url = "education/"
 
             [[languages.th.menu.main]]
             name = "แนะนำ"
             weight = 6
-            url = "th/recommend/"
+            url = "recommend/"

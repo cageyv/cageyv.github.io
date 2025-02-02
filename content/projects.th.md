@@ -1,7 +1,6 @@
 +++
 title = "Projects"
 slug = "projects"
-lang = "th"
 +++
 
 ## Secure, durable and scalable Infrastrature for Europenian Crypto Exchange Platform

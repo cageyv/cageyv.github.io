@@ -1,7 +1,6 @@
 +++
 title = "Education"
 slug = "education"
-lang = "th"
 +++
 
 {{< load-photoswipe >}}

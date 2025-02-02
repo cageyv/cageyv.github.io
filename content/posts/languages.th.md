@@ -10,7 +10,6 @@ categories = [
     "site",
 ]
 series = ["PersonalSite"]
-lang = "th"
 +++
 
 คุณอาจได้ยินเรื่อง AI และกระแสที่รายล้อมแล้ว \

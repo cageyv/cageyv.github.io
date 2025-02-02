@@ -1,7 +1,6 @@
 +++
-title = "About Me"
+title = "เกี่ยวกับฉัน"
 slug = "about"
-lang = "th"
 +++
 
 {{< notice tip "Long story short">}} Hello there! I'm Vladimir Samoylov, a cloud engineering and DevOps aficionado. From engineer to CTO & Cloud Consultant, my journey is fueled by a passion for AI, automation, and continuous learning. Let's connect and transform your tech vision into reality!{{< /notice >}}
