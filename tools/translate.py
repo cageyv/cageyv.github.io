@@ -26,16 +26,32 @@ def translate_title(frontmatter):
 def translate_content(content):
     return call_local_llm(f'''
         <purpose>
-            Translate to Thai, preserve markdown formatting and special characters: {content}
-            Don't use Chinese characters.
-            Use only Thai and English. All the terms and abbreviations should be in English.
-            Technical terms should be in English.
-            HTML formatting should be preserved. 
-            Hugo functions should be preserved.
-            Translate only text
+            Translate English text to Thai with strict rules:
+            1. Preserve ALL Markdown formatting exactly (headers, lists, code blocks, links, images, etc.)
+            2. Keep technical terms in English (e.g., AWS, VPC, Subnets, Routing, GCP, Azure, etc.)
+            3. Maintain original Hugo frontmatter and shortcodes ({{< notice tip >}}, {{< custom_shortcode >}}, etc.)
+            4. Preserve HTML entities and special characters (e.g., &lt;, &gt;, &amp;, etc.)
+            5. Never use Chinese characters. Never use any other language than English and Thai.
+            6. Only translate natural language text
+            
+            Do NOT translate:
+            - Proper nouns
+            - Industry terms
+            - Abbreviations
+            - Code snippets
+            - Markdown syntax
         </purpose>
+        <input>
+            {content}
+        </input>
         <output>
             <format>markdown</format>
+            <language>th</language>
+            <constraints>
+                en-tokens: technical_terms, proper_nouns, markdown_syntax
+                th-tokens: general_text, explanations
+                ch-tokens: none
+            </constraints>
         </output>
     ''')
 
@@ -43,11 +59,14 @@ def call_local_llm(prompt):
     conn = http.client.HTTPConnection("localhost", 4000)
     
     payload = json.dumps({
-        # "model": "lm_studio/deepseek-r1-14b",
-        "model": "lm_studio/phi4-14b",
+        "model": "lm_studio/deepseek-r1-14b",
+        # "model": "lm_studio/llama3.2-latest",
+        # "model": "lm_studio/phi4-14b",
+        # "model": "lm_studio/deepseek-r1-32b",
         "prompt": prompt,
-        "max_tokens": 2000,
-        "temperature": 0.3,
+        "max_tokens": 8000,
+        "temperature": 0.1,
+        "top_p": 0.9,
         "stream": False
     })
     
