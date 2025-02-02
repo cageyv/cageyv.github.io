@@ -1,0 +1,64 @@
+[categories]
+one = "หมวดหมู่"
+other = "หมวดหมู่"
+
+[tags]
+one = "แท็ก"
+other = "แท็ก"
+
+[series]
+one = "ซีรีส์"
+other = "ซีรีส์"
+
+[authors]
+one = "ผู้เขียน"
+other = "ผู้เขียน"
+
+[posts]
+other = "บทความ"
+
+[reading_time]
+one = "อ่าน 1 นาที"
+other = "อ่าน {{ .Count }} นาที"
+
+[page_not_found]
+other = "ไม่พบหน้า"
+
+[page_does_not_exist]
+other = "ขออภัย หน้านี้ไม่มีอยู่"
+
+[head_back]
+other = "คุณสามารถกลับไปยัง <a href=\"{{ . }}\">หน้าแรก</a>."
+
+[licensed_under]
+other = "ได้รับอนุญาตภายใต้"
+
+[powered_by]
+other = "ขับเคลื่อนโดย"
+
+[see_also]
+other = "ดูเพิ่มเติมที่"
+
+[note]
+other = "หมายเหตุ"
+
+[tip]
+other = "เคล็ดลับ"
+
+[example]
+other = "ตัวอย่าง"
+
+[question]
+other = "คำถาม"
+
+[info]
+other = "ข้อมูล"
+
+[warning]
+other = "คำเตือน"
+
+[error]
+other = "ข้อผิดพลาด"
+
+[link_to_heading]
+other = "ลิงก์ไปยังหัวข้อ"
