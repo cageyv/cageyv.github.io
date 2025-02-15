@@ -170,27 +170,33 @@ weight = 6
 url = "https://bcert.me/puwvubqw"
 
 [[params.badges]]
+name = "AWS Certified AI Practitioner"
+img = "images/aws-certified-ai-practitioner.png"
+weight = 7
+url = "https://www.credly.com/badges/3c456b9f-8b8d-4b5e-b43a-c41dc15b72cb/public_url"
+
+[[params.badges]]
 name = "FinOps Certified Practitioner (FOCP)"
 img = "images/focp-finops-certified-practitioner.2.webp"
-weight = 7
+weight = 8
 url = "https://www.credly.com/badges/09676047-6084-4ed3-ab49-4f73dc0d5d5c/public_url"
 
 [[params.badges]]
 name = "AWS Certified Cloud Practitioner"
 img = "images/aws-certified-cloud-practitioner.webp"
-weight = 8
+weight = 9
 url = "https://www.credly.com/badges/b80c3f21-5cf9-4fd5-a27a-b672cf0b80fd/public_url "
 
 [[params.badges]]
 name = "Fivexl"
 img = "images/fivexl.webp"
-weight = 9
+weight = 10
 url = "https://fivexl.io/author/vladimir-samoylov/"
 
 [[params.badges]]
 name = "DevWithAI"
 img = "images/badge-dev-with-ai.webp"
-weight = 10
+weight = 11
 url = "https://cageyv.dev/"
 
 
