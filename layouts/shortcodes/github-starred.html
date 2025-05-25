@@ -1,7 +1,7 @@
-{{ $starredJ := getJSON "https://api.github.com/users/cageyv/starred?per_page=100" }}
+{{ $starred := resources.GetRemote "https://api.github.com/users/cageyv/starred?per_page=100" | transform.Unmarshal }}
 Latest 100 stars. Full list here: <a href="https://github.com/cageyv?tab=stars">https://github.com/cageyv?tab=stars</a>
 <ul>
-{{ range $starredJ }}
+{{ range $starred }}
    <li>
       <a href="{{ .html_url }}">{{ .name }}</a> - {{ .description }}
    </li>

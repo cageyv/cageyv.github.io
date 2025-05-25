@@ -41,7 +41,7 @@ AWS EC2 offers pay-as-you-go pricing, and we could pay per minute in the cloud.
 - Increase your account quotas and get instance with GPU https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-limit/ 
   - AWS Regions: https://aws.amazon.com/about-aws/global-infrastructure/regions_az/ 
   - AWS EC2 Types: https://aws.amazon.com/ec2/instance-types/ (Go to Accelerated Computing)
-  - Short how to: Open "Service Quotas" -> "Amazon Elastic Compute Cloud (Amazon EC2)" -> Put "L-DB2E81BA" or "On-Demand G and VT instances" in the search bar -> Request quota increase -> "Change quota value: <Desired max number of vCPU> or 8". Note: It could require up to 48h, be ready for that.
+  - Short how to: Open "Service Quotas" -> "Amazon Elastic Compute Cloud (Amazon EC2)" -> Put "L-DB2E81BA" or "On-Demand G and VT instances" in the search bar -> Request quota increase -> "Change quota value: Desired max number of vCPU or 8". Note: It could require up to 48h, be ready for that.
 - Create instance from basic Windows image: https://aws.amazon.com/blogs/compute/use-amazon-ec2-for-cost-efficient-cloud-gaming-with-pay-as-you-go-pricing/
 - Use parsec app: https://www.richardneililagan.com/posts/create-game-server-aws-parsec/ 
 - NVIDIA Gaming PC - Windows Server 2019: https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6  
