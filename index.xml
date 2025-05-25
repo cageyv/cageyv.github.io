@@ -1,26 +1,820 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vladimir Samoylov</title><link>https://cageyv.dev/</link><description>Recent content on Vladimir Samoylov</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cageyv.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Why is RDS not just an Open-Source PostgreSQL? From Classic RDS to Aurora DSQL</title><link>https://cageyv.dev/posts/speakup-aws-amazon-aurora-dsql/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-amazon-aurora-dsql/</guid><description>AWS User Group Singapore Link to heading I was invited to the AWS User Group Singapore to talk about the PostgreSQL in AWS and about the Amazon Aurora DSQL. It was a great event. I was happy to meet many engineers and architects from the community. Usuage of the PostgreSQL in Singapore is quite huge, around half of audince was using it. Organization of the event was perfect. I was happy to be a part of it.</description></item><item><title>MVP on AWS: PostgreSQL</title><link>https://cageyv.dev/posts/aws-mvp-postgresql/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-mvp-postgresql/</guid><description>Why PostgreSQL? Link to heading Let&amp;rsquo;s assume that you already decided on PostgreSQL as your database. Why? Because it is a powerful, open-source object-relational database system with over 30 years of active development, correct? We will leave the problem of where and how to store data for another time.
-RDS Aurora (PostgreSQL Compatible) or RDS PostgreSQL Link to heading If there are no specific requirements, we may select Aurora as the default option.</description></item><item><title>Book: The Myth of Sisyphus by Albert Camus: A Reflection on Absurdity (1955)</title><link>https://cageyv.dev/posts/the-myth-of-sisyphus/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/the-myth-of-sisyphus/</guid><description>https://www.amazon.com/Myth-Sisyphus-Vintage-International-ebook/dp/B07HLQQZ3L
-Introduction Link to heading In “The Myth of Sisyphus”, Albert Camus tackles life’s biggest question: What’s the point of it all?
-His answer is simple and odd: there isn’t one — at least, not an essential or universal one.
-Camus introduces the concept of the absurd: the connection between humanity’s never-ending search for meaning and the silence of the universe.
-Instead of giving up, he argues for a more radical response — revolt.</description></item><item><title>Getting started with Amazon Bedrock Studio</title><link>https://cageyv.dev/posts/speakup-aws-bedrock-and-accounts/</link><pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-bedrock-and-accounts/</guid><description>AWS Sumit Bangkok 2024 Link to heading The event itself was huge. This year it was special one. AWS will launch Bankgon region in 2025. And this is a awesome news for all of us. Many companies are waiting for this moment. And I was happy to be a part of this event. Miss that one? Don&amp;rsquo;t worry, you can catch up the next one in the next year.</description></item><item><title>AWS RDS Data API and CloudTrail. Who drop the table?</title><link>https://cageyv.dev/posts/aws-rds-data-api/</link><pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-rds-data-api/</guid><description>Introduction Link to heading Amazon Web Services (AWS) continually innovates to enhance user experience and efficiency. A prime example of this is the recent update to the RDS Data API, particularly for Amazon Aurora PostgreSQL-Compatible Edition. This update is a game-changer, as it offers users the ability to access Aurora clusters via a secure HTTP endpoint. The key here is the removal of rate limits and the elimination of the need for database drivers and managing connections.</description></item><item><title>The Multiverse of Hosting a Static HTML File on AWS</title><link>https://cageyv.dev/posts/aws-static-hosting/</link><pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-static-hosting/</guid><description>Today, we dive into the versatile and dynamic world of AWS, exploring the numerous avenues for hosting a simple, yet pivotal, web element - the static HTML file. AWS, known for its robust and expansive cloud services, offers a plethora of methods for this seemingly straightforward task. Each method comes with its own set of features and benefits, suitable for various needs and complexities. From the efficient S3 buckets to the comprehensive AWS Amplify, we&amp;rsquo;re covering a spectrum of options that cater to different scales and requirements.</description></item><item><title>Book: Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal, Oren Klaff (2011)</title><link>https://cageyv.dev/posts/pitch-anything/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/pitch-anything/</guid><description>https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854
-Introduction Link to heading Have you ever realized that every interaction is a pitch? Be it job interviews, dating, or meeting new people, we&amp;rsquo;re constantly &amp;lsquo;selling&amp;rsquo; ourselves. This realization hit me hard after diving into Oren Klaff&amp;rsquo;s &amp;ldquo;Pitch Anything,&amp;rdquo; a book that reshapes the art of persuasion. My journey in the IT consulting world has been profoundly impacted by this book, and I&amp;rsquo;m excited to share these insights with you.</description></item><item><title>Navigating the Path to AWS Solutions Architect Professional Certification</title><link>https://cageyv.dev/posts/aws-solutions-architect-professional/</link><pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-solutions-architect-professional/</guid><description>Embarking on a Transformative Journey Link to heading Two years ago, I set out on an educational expedition with AWS, starting with the AWS Solutions Architect Associate certification. Today, I&amp;rsquo;m elated to share my achievement of the AWS Solutions Architect Professional certification. This accomplishment marks a significant milestone in my professional journey.
-Empowered by the AWS Community Builders Program Link to heading My path was significantly bolstered by the support of the AWS Community Builders program.</description></item><item><title>scb-to-moneywiz: Import Bank Transactions from SCB Easy (Thailand) to MoneyWiz</title><link>https://cageyv.dev/posts/scb-to-moneywiz/</link><pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/scb-to-moneywiz/</guid><description>Introduction: Link to heading Navigating financial management can be a tricky affair, especially without cutting-edge banking technology. But for users of MoneyWiz, an ingenious script is making life easier. This tool specifically aids in importing SCB Bank transactions, transforming a tedious task into a smooth, automated process.
-The Challenge with SCB Bank: Link to heading As we approach the end of 2023, SCB Bank&amp;rsquo;s lack of OpenBanking support means their clients are stuck with transaction statements in PDF format, courtesy of the SCB Easy App.</description></item><item><title>AWS CloudDay Thailand: Secure from Day-0: Increase Your Security Posture with Temporary Elevated Access and AWS IAM Identity Center</title><link>https://cageyv.dev/posts/speakup-sso-elevator-in-bkk/</link><pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-sso-elevator-in-bkk/</guid><description>Event review Link to heading The recent AWS CloudDay Thailand at the Queen Sirikit National Convention Centre was an extraordinary convergence of tech aficionados. The sheer turnout—numbering in the thousands—made it clear: Security, efficiency, and cutting-edge technologies are at the forefront of every organization&amp;rsquo;s strategic plan.
-Amid the vastness of the event, the Developer Lounge was a distinctive gem. Though smaller in scale, its value was undeniable, offering a blend of intimacy and innovation where in-depth discussions and exchanges thrived.</description></item><item><title>AWS User Group Meetup: AWS Spot Pricing with Terraform</title><link>https://cageyv.dev/posts/speakup-aws-ec2-spot-in-bkk/</link><pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-ec2-spot-in-bkk/</guid><description>Event review Link to heading Set against the backdrop of the tech-forward AWS Office in Bangkok, the AWS User Group Meetup was a melting pot of innovation and collaboration. For CTOs and startup owners, understanding the pulse of the latest in cloud technology is crucial. This gathering provided a vibrant platform to explore, question, and share the most recent advancements in AWS.
-My Own Perspective Link to heading One of the prime concerns for any CTO or startup owner is maximizing efficiency without inflating costs.</description></item><item><title>AWS Meetup – DevTalk in Bangkok: Security Basics in AWS or How To Get Rid of Hardcoded Credential and Reduce Data Leakage Risks with aws-vault</title><link>https://cageyv.dev/posts/speakup-aws-vault-in-bkk/</link><pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-vault-in-bkk/</guid><description>Event review Link to heading At the recent AWS Meetup – DevTalk in Bangkok, I joined a group of cloud aficionados and professionals, representing a wide range of industries. Organized by the AWS User Group Thailand, this event underscored the importance of security in the AWS ecosystem—a critical concern for startups, seasoned businesses, and especially for leaders like CTOs and DevOps professionals.
-The event was a resounding success, attracting a packed audience of 500 attendees who were eager to delve into the latest trends and insights in the world of AWS and cloud technologies.</description></item><item><title>LProbe: A Secure, Open-Source Local Health Check Solution</title><link>https://cageyv.dev/posts/lprobe/</link><pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/lprobe/</guid><description>LProbe: A One-Stop-Shop Tool for Secure, Local Health Checks Link to heading Even if your app is functioning, that doesn’t always mean it’s working correctly. For you to securely and easily ensure your local container is healthy before the system fails, FivexL developed an open-source automated local health check solution - LProbe.
-A vivid example is an eternal timeout: your app doesn’t crash but keeps waiting for a system response.</description></item><item><title>Where no Windows Machine? Luck of space? Travel a lot? Let's use AWS as is Cloud Gaming platform</title><link>https://cageyv.dev/posts/aws-cloudgaming/</link><pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-cloudgaming/</guid><description>Why Could Gaming? What is the Problem? Link to heading Usually, for PC gaming, it is required to have a nice and fresh PC. But time does not stand still; there are many things that change us. The simplest one is that our PCs just get old, and we can&amp;rsquo;t run new titles at high specs anymore, just because of hardware limitations.
-What&amp;rsquo;s next? If we are going to update our setup, this means a huge upfront cost.</description></item><item><title>Book: The 6 Types of Working Genius, Patrick M. Lencioni (2022)</title><link>https://cageyv.dev/posts/the-6-types-of-working-genius/</link><pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/the-6-types-of-working-genius/</guid><description>https://www.amazon.com/Types-Working-Genius-Understand-Frustrations-ebook/dp/B09XGPCM36
-The 6 Types of Genius Link to heading #1 The Genius of Wonder refers to the ability to think deeply and ask questions about the world around us. It involves speculation and curiosity, and the desire to seek answers and take action. Those who possess this genius tend to naturally engage in these activities and find it easy to become absorbed in observing and questioning their surroundings, considering whether things could be different or if there is untapped potential.</description></item><item><title>Book: Rework, Jason Fried, David Heinemeier Hansson (2010)</title><link>https://cageyv.dev/posts/rework/</link><pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/rework/</guid><description>https://www.amazon.com/Rework-Jason-Fried/dp/0307463745
-Takedowns Link to heading In the beginning, it is said that it is difficult to draw up 5-year business plans in an environment of rapid change. I would go with the strategy of still creating an action plan, but calling it a yearly guess. About company size, the book reminds us, that being small is not too bad. Further in the book, we will talk about hiring, so here it’s more about the fact that an increase in the number of people does not always increase productivity in general.</description></item><item><title>Book: Terraform Up and Running 3.0, Yevgeniy Brikman (2022)</title><link>https://cageyv.dev/posts/terraform-up-and-running/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/terraform-up-and-running/</guid><description/></item><item><title>Book: Propaganda, Edward Bernays (2004)</title><link>https://cageyv.dev/posts/propaganda/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/propaganda/</guid><description/></item><item><title>Book: Atomic Habits, James Clear (2018)</title><link>https://cageyv.dev/posts/atomic-habits/</link><pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/atomic-habits/</guid><description/></item><item><title>Security Basics in AWS or How To Get Rid of Hardcoded Credential and Reduce Data Leakage Risks with aws-vault</title><link>https://cageyv.dev/posts/aws-vault/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-vault/</guid><description>Developers often hardcode credentials on a public or private GitHub repository, ramping up data leakage risks. It’s hardly better to store static credentials in the .aws/credentials folder on a server or a local operator machine. As american cryptographer, writer, and computer security specialist, Bruce Schneier, says: . &amp;ldquo;Only amateurs attackWe machines; professionals target people.&amp;rdquo; Therefore, you, not your hardware, is at risk.
-By executing fraudulent software, cybercriminals can easily steal all the data from the folder or a whole directory with your, your friends’, and clients’ credentials.</description></item><item><title>What Is AWS CloudTrail, and Why Do You Need It</title><link>https://cageyv.dev/posts/aws-cloudtrail-to-slack/</link><pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-cloudtrail-to-slack/</guid><description>Don’t have enough resources to set up a security department but want to stay on top of your AWS CloudTrail events? Find out how the CloudTrail-to-Slack Terraform module by FivexL solves this problem for startups and small teams.
-Terraform Module for AWS CloudTrail — An Effective Security Tool Link to heading While large corporations have their own Security Operations Centers (SOCs) responsible for information security and can afford expensive solutions, startups usually don’t have enough resources and time to set up such a luxury.</description></item><item><title>How To Save Resources With the Terraform Module for AWS Spot Instances</title><link>https://cageyv.dev/posts/aws-ec2-spot/</link><pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-ec2-spot/</guid><description>Saving money on Amazon Web Services (AWS) Spot Instances can be a challenging task. Keep in mind that it is essentially an auction. Although prices don’t fluctuate as rapidly as on exchanges, they can still increase until they reach the on-demand rate. Sometimes it lasts for a day or two, but other times — up to several months, which can double the cost.
-How do you avoid a situation in which, for example, everything went perfect in November, but in December, the prices doubled amid the holiday hype — and you got not only an expensive system but also one with interruptions?</description></item><item><title>Book: Investing in your 20s and 30s, Eric Tyson (2017)</title><link>https://cageyv.dev/posts/investing-in-your-20s-and-30s/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/investing-in-your-20s-and-30s/</guid><description/></item><item><title>Migrate to Hugo from Jekyll</title><link>https://cageyv.dev/posts/migrate-to-hugo/</link><pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/migrate-to-hugo/</guid><description>I was happy to switch to Hugo I think this format looks much more modern</description></item><item><title>Book: A Song Of Ice and Fire, George R. R. Martin (2012)</title><link>https://cageyv.dev/posts/a-song-of-ice-and-fire/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/a-song-of-ice-and-fire/</guid><description/></item><item><title>Film: Catch Me If You Can, Steven Spielberg (2002)</title><link>https://cageyv.dev/posts/catch-me-if-you-can/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/catch-me-if-you-can/</guid><description/></item><item><title>About Me</title><link>https://cageyv.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/about/</guid><description>Long story short Hello there! I&amp;rsquo;m Vladimir Samoylov, a cloud engineering and DevOps aficionado. From engineer to CTO &amp;amp; Cloud Consultant, my journey is fueled by a passion for AI, automation, and continuous learning. Let&amp;rsquo;s connect and transform your tech vision into reality! The Beginning of an Unexpected Journey Link to heading &amp;ldquo;It all started quite unexpectedly. Picture this: I was the CTO at an EdTech company, navigating the complexities of technology, when I stumbled upon the world of DevOps.</description></item><item><title>Contact</title><link>https://cageyv.dev/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/contact/</guid><description>Follow me, @cageyv.</description></item><item><title>Education</title><link>https://cageyv.dev/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/education/</guid><description>2010 - 2014: Moscow State University of Instrument Engineering and Computer Science Master Degree, GPA: 4.55 / 5 Computers, complexes, systems, and networks 2006 - 2010: Moscow College of Informatics and Computer Engineering Engineer’s degree, GPA: 4.23 / 5 Computer software and automated systems Additional Education Link to heading AWS Link to heading https://www.aws.training/
-2024 aws well architected foundations
-2021 aws certified solutions architect associate
-2020 aws technical professional</description></item><item><title>Experience</title><link>https://cageyv.dev/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/experience/</guid><description>Sep 2023 - present: Principal Consultant | Cloud Engineer at Firi
-Skills: Amazon ECS · AWS Security · GitHub · Amazon Web Services (AWS) · Terraform · Cloudflare · VMWare · PostgreSQL Led the migration from AWS WAF to Cloudflare WAF, achieving enhanced security and cost efficiency, by configuring Cloudflare as code for a Zero Trust architecture and moving all services behind Cloudflare WAF for robust protection. Developed an on-premise replication solution, ensuring business continuity and resilience against downtime, by implementing VMware and Palo Alto as code, which allowed for seamless business operations even in the event of major disruptions.</description></item><item><title>First snippet</title><link>https://cageyv.dev/snippets/first/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/snippets/first/</guid><description>This content is in snippets/first/index.md
-pwd</description></item><item><title>Projects</title><link>https://cageyv.dev/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/projects/</guid><description>Secure, durable and scalable Infrastrature for Europenian Crypto Exchange Platform Link to heading “It was an essential approach for us to be able to scale moving forward.” and &amp;ldquo;first application deployed in just two weeks.” (c)
-Migration from AWS EC2 to AWS ECS (Containers) like a hot swap wheel change on a moving race car Pipeline migration from Buddyworks to GitHub Actions Serverless solution (AWS ECS Fargate + AWS Lambda) Security part: Database are not available for all world any more, CMK KMS as general for encryption, AWS WAF + Cloudflare for incoming traffic protection Resource Optimization: Resource usage has been reduced by more than 50% and we will improve the ecology of the world.</description></item><item><title>Recommend</title><link>https://cageyv.dev/recommend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/recommend/</guid><description>Servies Link to heading Numbeo Do you want to compare Cities or Countries? Cost of living and Quality of Life database is here. DuoLingo The free, fun, and effective way to learn a language! Onward Ticket Quickly book a Flight Reservation for your Visa Application. Verifiable on Airline&amp;rsquo;s Websites. SafetyWing Insurance for nomdas. Travel medical insurance. They cover people from all over the world, while outside their home country. italki It helps me.</description></item><item><title>Second snippet</title><link>https://cageyv.dev/snippets/second/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/snippets/second/</guid><description>This content is in snippets/second/index.md
-ls -la</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vladimir Samoylov</title><link>https://cageyv.dev/</link><description>Recent content on Vladimir Samoylov</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cageyv.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Why is RDS not just an Open-Source PostgreSQL? From Classic RDS to Aurora DSQL</title><link>https://cageyv.dev/posts/speakup-aws-amazon-aurora-dsql/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-amazon-aurora-dsql/</guid><description>&lt;h2 id="aws-user-group-singapore">
+ AWS User Group Singapore
+ &lt;a class="heading-link" href="#aws-user-group-singapore">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>I was invited to the AWS User Group Singapore to talk about the PostgreSQL in AWS and about the Amazon Aurora DSQL. It was a great event. I was happy to meet many engineers and architects from the community. Usuage of the PostgreSQL in Singapore is quite huge, around half of audince was using it.
+Organization of the event was perfect. I was happy to be a part of it.&lt;/p></description></item><item><title>MVP on AWS: PostgreSQL</title><link>https://cageyv.dev/posts/aws-mvp-postgresql/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-mvp-postgresql/</guid><description>&lt;h2 id="why-postgresql">
+ Why PostgreSQL?
+ &lt;a class="heading-link" href="#why-postgresql">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Let&amp;rsquo;s assume that you already decided on PostgreSQL as your database. Why? Because it is a powerful, open-source object-relational database system with over 30 years of active development, correct? We will leave the problem of where and how to store data for another time.&lt;/p>
+&lt;h2 id="rds-aurora-postgresql-compatible-or-rds-postgresql">
+ RDS Aurora (PostgreSQL Compatible) or RDS PostgreSQL
+ &lt;a class="heading-link" href="#rds-aurora-postgresql-compatible-or-rds-postgresql">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>If there are no specific requirements, we may select Aurora as the default option.
+Storage systems are the key difference between the two. You don&amp;rsquo;t have to worry about being out of space. Aurora will help you. Aurora will automatically scale the storage up to 128 TB (November 2024). &amp;ldquo;The data is automatically replicated across Availability Zones, your data is highly durable with less possibility of data loss.&amp;rdquo; You can have one instance with data in 3 different places. If you want to add another region, it will give us six different places in the world where data is stored. Magic, right?&lt;/p></description></item><item><title>Book: The Myth of Sisyphus by Albert Camus: A Reflection on Absurdity (1955)</title><link>https://cageyv.dev/posts/the-myth-of-sisyphus/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/the-myth-of-sisyphus/</guid><description>&lt;p>&lt;a href="https://www.amazon.com/Myth-Sisyphus-Vintage-International-ebook/dp/B07HLQQZ3L" class="external-link" target="_blank" rel="noopener">https://www.amazon.com/Myth-Sisyphus-Vintage-International-ebook/dp/B07HLQQZ3L&lt;/a>&lt;/p>
+&lt;h2 id="introduction">
+ Introduction
+ &lt;a class="heading-link" href="#introduction">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>In “The Myth of Sisyphus”, Albert Camus tackles life’s biggest question: &lt;strong>What’s the point of it all?&lt;/strong>&lt;/p>
+&lt;p>His answer is simple and odd: &lt;strong>there isn’t one&lt;/strong> — at least, not an essential or universal one.&lt;/p>
+&lt;p>Camus introduces the concept of &lt;strong>the absurd&lt;/strong>: the connection between humanity’s never-ending search for meaning and the silence of the universe.&lt;/p>
+&lt;p>Instead of giving up, he argues for a more radical response — &lt;strong>revolt&lt;/strong>.&lt;/p></description></item><item><title>Getting started with Amazon Bedrock Studio</title><link>https://cageyv.dev/posts/speakup-aws-bedrock-and-accounts/</link><pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-bedrock-and-accounts/</guid><description>&lt;h2 id="aws-sumit-bangkok-2024">
+ AWS Sumit Bangkok 2024
+ &lt;a class="heading-link" href="#aws-sumit-bangkok-2024">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>The event itself was huge. This year it was special one. AWS will launch Bankgon region in 2025. And this is a awesome news for all of us. Many companies are waiting for this moment. And I was happy to be a part of this event. Miss that one? Don&amp;rsquo;t worry, you can catch up the next one in the next year.&lt;/p></description></item><item><title>AWS RDS Data API and CloudTrail. Who drop the table?</title><link>https://cageyv.dev/posts/aws-rds-data-api/</link><pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-rds-data-api/</guid><description>&lt;h2 id="introduction">
+ Introduction
+ &lt;a class="heading-link" href="#introduction">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Amazon Web Services (AWS) continually innovates to enhance user experience and efficiency. A prime example of this is the recent update to the RDS Data API, particularly for Amazon Aurora PostgreSQL-Compatible Edition. This update is a game-changer, as it offers users the ability to access Aurora clusters via a secure HTTP endpoint. The key here is the removal of rate limits and the elimination of the need for database drivers and managing connections.&lt;/p></description></item><item><title>The Multiverse of Hosting a Static HTML File on AWS</title><link>https://cageyv.dev/posts/aws-static-hosting/</link><pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-static-hosting/</guid><description>&lt;p>Today, we dive into the versatile and dynamic world of AWS, exploring the numerous avenues for hosting a simple, yet pivotal, web element - the static HTML file. AWS, known for its robust and expansive cloud services, offers a plethora of methods for this seemingly straightforward task. Each method comes with its own set of features and benefits, suitable for various needs and complexities. From the efficient S3 buckets to the comprehensive AWS Amplify, we&amp;rsquo;re covering a spectrum of options that cater to different scales and requirements. So, let&amp;rsquo;s unpack these methods and see how they align with your DevOps strategies, business goals, and IT needs.&lt;/p></description></item><item><title>Book: Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal, Oren Klaff (2011)</title><link>https://cageyv.dev/posts/pitch-anything/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/pitch-anything/</guid><description>&lt;p>&lt;a href="https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854" class="external-link" target="_blank" rel="noopener">https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854&lt;/a>&lt;/p>
+&lt;h2 id="introduction">
+ Introduction
+ &lt;a class="heading-link" href="#introduction">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Have you ever realized that every interaction is a pitch? Be it job interviews, dating, or meeting new people, we&amp;rsquo;re constantly &amp;lsquo;selling&amp;rsquo; ourselves. This realization hit me hard after diving into Oren Klaff&amp;rsquo;s &amp;ldquo;Pitch Anything,&amp;rdquo; a book that reshapes the art of persuasion. My journey in the IT consulting world has been profoundly impacted by this book, and I&amp;rsquo;m excited to share these insights with you.&lt;/p></description></item><item><title>Navigating the Path to AWS Solutions Architect Professional Certification</title><link>https://cageyv.dev/posts/aws-solutions-architect-professional/</link><pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-solutions-architect-professional/</guid><description>&lt;p>&lt;img src="https://cageyv.dev/images/aws-certified-solutions-architect-professional.webp" alt="badge">&lt;/p>
+&lt;h2 id="embarking-on-a-transformative-journey">
+ Embarking on a Transformative Journey
+ &lt;a class="heading-link" href="#embarking-on-a-transformative-journey">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Two years ago, I set out on an educational expedition with AWS, starting with the AWS Solutions Architect Associate certification. Today, I&amp;rsquo;m elated to share my achievement of the AWS Solutions Architect Professional certification. This accomplishment marks a significant milestone in my professional journey.&lt;/p>
+&lt;h2 id="empowered-by-the-aws-community-builders-program">
+ Empowered by the AWS Community Builders Program
+ &lt;a class="heading-link" href="#empowered-by-the-aws-community-builders-program">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>My path was significantly bolstered by the support of the AWS Community Builders program. Their generous provision of a complimentary exam coupon not only alleviated financial constraints but also fueled my motivation to succeed.&lt;/p></description></item><item><title>scb-to-moneywiz: Import Bank Transactions from SCB Easy (Thailand) to MoneyWiz</title><link>https://cageyv.dev/posts/scb-to-moneywiz/</link><pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/scb-to-moneywiz/</guid><description>&lt;h2 id="introduction">
+ Introduction:
+ &lt;a class="heading-link" href="#introduction">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Navigating financial management can be a tricky affair, especially without cutting-edge banking technology. But for users of MoneyWiz, an ingenious script is making life easier. This tool specifically aids in importing SCB Bank transactions, transforming a tedious task into a smooth, automated process.&lt;/p>
+&lt;h2 id="the-challenge-with-scb-bank">
+ The Challenge with SCB Bank:
+ &lt;a class="heading-link" href="#the-challenge-with-scb-bank">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>As we approach the end of 2023, SCB Bank&amp;rsquo;s lack of OpenBanking support means their clients are stuck with transaction statements in PDF format, courtesy of the SCB Easy App. Not exactly convenient for those who need to keep track of their finances regularly. This is where our script steps in, offering a practical solution for MoneyWiz users.&lt;/p></description></item><item><title>AWS CloudDay Thailand: Secure from Day-0: Increase Your Security Posture with Temporary Elevated Access and AWS IAM Identity Center</title><link>https://cageyv.dev/posts/speakup-sso-elevator-in-bkk/</link><pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-sso-elevator-in-bkk/</guid><description>&lt;h2 id="event-review">
+ Event review
+ &lt;a class="heading-link" href="#event-review">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>The recent AWS CloudDay Thailand at the Queen Sirikit National Convention Centre was an extraordinary convergence of tech aficionados. The sheer turnout—numbering in the thousands—made it clear: Security, efficiency, and cutting-edge technologies are at the forefront of every organization&amp;rsquo;s strategic plan.&lt;/p>
+&lt;p>Amid the vastness of the event, the Developer Lounge was a distinctive gem. Though smaller in scale, its value was undeniable, offering a blend of intimacy and innovation where in-depth discussions and exchanges thrived.&lt;/p></description></item><item><title>AWS User Group Meetup: AWS Spot Pricing with Terraform</title><link>https://cageyv.dev/posts/speakup-aws-ec2-spot-in-bkk/</link><pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-ec2-spot-in-bkk/</guid><description>&lt;h2 id="event-review">
+ Event review
+ &lt;a class="heading-link" href="#event-review">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Set against the backdrop of the tech-forward AWS Office in Bangkok, the AWS User Group Meetup was a melting pot of innovation and collaboration. For CTOs and startup owners, understanding the pulse of the latest in cloud technology is crucial. This gathering provided a vibrant platform to explore, question, and share the most recent advancements in AWS.&lt;/p>
+&lt;p>&lt;img src="https://cageyv.dev/images/posts/speakup_aws_ec2_spot_in_bkk/1.webp" alt="FistImage">&lt;/p>
+&lt;h2 id="my-own-perspective">
+ My Own Perspective
+ &lt;a class="heading-link" href="#my-own-perspective">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>One of the prime concerns for any CTO or startup owner is maximizing efficiency without inflating costs. During the meetup, I delved into AWS Spot Pricing through Terraform, showcasing how organizations can achieve both. The Terraform Module for AWS Spot Instances isn&amp;rsquo;t just a tool; it&amp;rsquo;s a strategy. By automating Spot Max Prices management, it prevents potential budget overruns and unnecessary resource consumption – every DevOps professional&amp;rsquo;s dream.&lt;/p></description></item><item><title>AWS Meetup – DevTalk in Bangkok: Security Basics in AWS or How To Get Rid of Hardcoded Credential and Reduce Data Leakage Risks with aws-vault</title><link>https://cageyv.dev/posts/speakup-aws-vault-in-bkk/</link><pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/speakup-aws-vault-in-bkk/</guid><description>&lt;h2 id="event-review">
+ Event review
+ &lt;a class="heading-link" href="#event-review">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>At the recent AWS Meetup – DevTalk in Bangkok, I joined a group of cloud aficionados and professionals, representing a wide range of industries. Organized by the AWS User Group Thailand, this event underscored the importance of security in the AWS ecosystem—a critical concern for startups, seasoned businesses, and especially for leaders like CTOs and DevOps professionals.&lt;/p>
+&lt;p>The event was a resounding success, attracting a packed audience of 500 attendees who were eager to delve into the latest trends and insights in the world of AWS and cloud technologies. The event featured a series of talks by industry experts, including Werner Vogels, Donnie Prakoso, Vit Niennattrakul, Ankit Mehta, and myself. The event was a testament to the growing interest in cloud technologies and the need for a community-driven approach to knowledge-sharing.&lt;/p></description></item><item><title>LProbe: A Secure, Open-Source Local Health Check Solution</title><link>https://cageyv.dev/posts/lprobe/</link><pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/lprobe/</guid><description>&lt;h2 id="lprobe-a-one-stop-shop-tool-for-secure-local-health-checks">
+ LProbe: A One-Stop-Shop Tool for Secure, Local Health Checks
+ &lt;a class="heading-link" href="#lprobe-a-one-stop-shop-tool-for-secure-local-health-checks">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Even if your app is functioning, that doesn’t always mean it’s working correctly. For you to securely and easily ensure your local container is healthy before the system fails, FivexL developed an open-source automated local health check solution - &lt;a href="https://github.com/fivexl/lprobe" class="external-link" target="_blank" rel="noopener">LProbe&lt;/a>.&lt;br>
+A vivid example is an eternal timeout: your app doesn’t crash but keeps waiting for a system response. If you receive no alert that there is no response within, let’s say, 30 seconds, you may not notice something is wrong. Here comes a health check to ensure your app is working correctly.&lt;/p></description></item><item><title>Where no Windows Machine? Luck of space? Travel a lot? Let's use AWS as is Cloud Gaming platform</title><link>https://cageyv.dev/posts/aws-cloudgaming/</link><pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-cloudgaming/</guid><description>&lt;h2 id="why-could-gaming-what-is-the-problem">
+ Why Could Gaming? What is the Problem?
+ &lt;a class="heading-link" href="#why-could-gaming-what-is-the-problem">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Usually, for PC gaming, it is required to have a nice and fresh PC. But time does not stand still; there are many things that change us. The simplest one is that our PCs just get old, and we can&amp;rsquo;t run new titles at high specs anymore, just because of hardware limitations.&lt;/p>
+&lt;p>What&amp;rsquo;s next? If we are going to update our setup, this means a huge upfront cost. We have to pay right now or make a commitment to pay (such as credit) for a high-end PC. And you know what? After a while, it will get old too. I went through that cycle years ago, when I played a lot more than I do today. Every 2-3 years, I just needed to buy a new PC. At the same time, it is bad for the environment, because we just can&amp;rsquo;t make proper hardware utilization.&lt;/p></description></item><item><title>Book: The 6 Types of Working Genius, Patrick M. Lencioni (2022)</title><link>https://cageyv.dev/posts/the-6-types-of-working-genius/</link><pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/the-6-types-of-working-genius/</guid><description>&lt;p>&lt;a href="https://www.amazon.com/Types-Working-Genius-Understand-Frustrations-ebook/dp/B09XGPCM36" class="external-link" target="_blank" rel="noopener">https://www.amazon.com/Types-Working-Genius-Understand-Frustrations-ebook/dp/B09XGPCM36&lt;/a>&lt;/p>
+&lt;h2 id="the-6-types-of-genius">
+ The 6 Types of Genius
+ &lt;a class="heading-link" href="#the-6-types-of-genius">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>#1 The Genius of Wonder refers to the ability to think deeply and ask questions about the world around us. It involves speculation and curiosity, and the desire to seek answers and take action. Those who possess this genius tend to naturally engage in these activities and find it easy to become absorbed in observing and questioning their surroundings, considering whether things could be different or if there is untapped potential.&lt;/p></description></item><item><title>Book: Rework, Jason Fried, David Heinemeier Hansson (2010)</title><link>https://cageyv.dev/posts/rework/</link><pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/rework/</guid><description>&lt;p>&lt;a href="https://www.amazon.com/Rework-Jason-Fried/dp/0307463745" class="external-link" target="_blank" rel="noopener">https://www.amazon.com/Rework-Jason-Fried/dp/0307463745&lt;/a>&lt;/p>
+&lt;h2 id="takedowns">
+ Takedowns
+ &lt;a class="heading-link" href="#takedowns">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>In the beginning, it is said that it is difficult to draw up 5-year business plans in an environment of rapid change.
+I would go with the strategy of still creating an action plan, but calling it a yearly guess.
+About company size, the book reminds us, that being small is not too bad.
+Further in the book, we will talk about hiring, so here it’s more about the fact that an increase in the number of people does not always increase productivity in general.
+There is an interesting example with a log when more and more people are asked to lift it together and the productivity of each participant falls lower and lower.&lt;/p></description></item><item><title>Book: Terraform Up and Running 3.0, Yevgeniy Brikman (2022)</title><link>https://cageyv.dev/posts/terraform-up-and-running/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/terraform-up-and-running/</guid><description/></item><item><title>Book: Propaganda, Edward Bernays (2004)</title><link>https://cageyv.dev/posts/propaganda/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/propaganda/</guid><description/></item><item><title>Book: Atomic Habits, James Clear (2018)</title><link>https://cageyv.dev/posts/atomic-habits/</link><pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/atomic-habits/</guid><description/></item><item><title>Security Basics in AWS or How To Get Rid of Hardcoded Credential and Reduce Data Leakage Risks with aws-vault</title><link>https://cageyv.dev/posts/aws-vault/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-vault/</guid><description>&lt;p>Developers often hardcode credentials on a public or private GitHub repository, ramping up data leakage risks. It’s hardly better to store static credentials in the .aws/credentials folder on a server or a local operator machine. As american cryptographer, writer, and computer security specialist, Bruce Schneier, says: . &amp;ldquo;Only amateurs attackWe machines; professionals target people.&amp;rdquo; Therefore, you, not your hardware, is at risk.&lt;/p>
+&lt;p>By executing fraudulent software, cybercriminals can easily steal all the data from the folder or a whole directory with your, your friends’, and clients’ credentials. Even the AWS support team is exhausted with constant tickets regarding stolen credentials from public Git repos. Here&amp;rsquo;s why if you commit keys, expect an email in 3-5 minutes saying that the IAM policy has been applied. It means that you can’t get rid of the policy or destroy exposed credentials.&lt;/p></description></item><item><title>What Is AWS CloudTrail, and Why Do You Need It</title><link>https://cageyv.dev/posts/aws-cloudtrail-to-slack/</link><pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-cloudtrail-to-slack/</guid><description>&lt;p>Don’t have enough resources to set up a security department but want to stay on top of your AWS CloudTrail events? Find out how the CloudTrail-to-Slack Terraform module by &lt;a href="https://fivexl.io/" class="external-link" target="_blank" rel="noopener">FivexL&lt;/a> solves this problem for startups and small teams.&lt;/p>
+&lt;h2 id="terraform-module-for-aws-cloudtrail--an-effective-security-tool">
+ Terraform Module for AWS CloudTrail — An Effective Security Tool
+ &lt;a class="heading-link" href="#terraform-module-for-aws-cloudtrail--an-effective-security-tool">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>While large corporations have their own Security Operations Centers (SOCs) responsible for information security and can afford expensive solutions, startups usually don’t have enough resources and time to set up such a luxury. Therefore, they have to look for simple security solutions to protect their data. Understanding the pain of limited resources, FivexL developed the Cloudtrail-to-Slack Terraform Module.&lt;/p></description></item><item><title>How To Save Resources With the Terraform Module for AWS Spot Instances</title><link>https://cageyv.dev/posts/aws-ec2-spot/</link><pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-ec2-spot/</guid><description>&lt;p>Saving money on Amazon Web Services (AWS) Spot Instances can be a challenging task. Keep in mind that it is essentially an auction. Although prices don’t fluctuate as rapidly as on exchanges, they can still increase until they reach the on-demand rate. Sometimes it lasts for a day or two, but other times — up to several months, which can double the cost.&lt;/p>
+&lt;p>How do you avoid a situation in which, for example, everything went perfect in November, but in December, the prices doubled amid the holiday hype — and you got not only an expensive system but also one with interruptions? Let&amp;rsquo;s examine why this happens. For this, let&amp;rsquo;s look at Spot Instance allocation strategies and see how you can use the Terraform module with no issues and save money at the same time.&lt;/p></description></item><item><title>Book: Investing in your 20s and 30s, Eric Tyson (2017)</title><link>https://cageyv.dev/posts/investing-in-your-20s-and-30s/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/investing-in-your-20s-and-30s/</guid><description/></item><item><title>Migrate to Hugo from Jekyll</title><link>https://cageyv.dev/posts/migrate-to-hugo/</link><pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/migrate-to-hugo/</guid><description>&lt;p>I was happy to switch to Hugo
+I think this format looks much more modern&lt;/p></description></item><item><title>Book: A Song Of Ice and Fire, George R. R. Martin (2012)</title><link>https://cageyv.dev/posts/a-song-of-ice-and-fire/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/a-song-of-ice-and-fire/</guid><description/></item><item><title>Film: Catch Me If You Can, Steven Spielberg (2002)</title><link>https://cageyv.dev/posts/catch-me-if-you-can/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/catch-me-if-you-can/</guid><description/></item><item><title>About Me</title><link>https://cageyv.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/about/</guid><description>&lt;div class="notice tip">
+ &lt;div class="notice-title">
+ &lt;i class="fa-solid fa-lightbulb" aria-hidden="true">&lt;/i>Long story short
+ &lt;/div>
+ &lt;div class="notice-content">Hello there! I&amp;rsquo;m Vladimir Samoylov, a cloud engineering and DevOps aficionado. From engineer to CTO &amp;amp; Cloud Consultant, my journey is fueled by a passion for AI, automation, and continuous learning. Let&amp;rsquo;s connect and transform your tech vision into reality!&lt;/div>
+&lt;/div>
+
+&lt;p>&lt;img src="https://cageyv.dev/images/about/picture.webp" alt="Vladimir Samoylov">&lt;/p>
+&lt;h2 id="the-beginning-of-an-unexpected-journey">
+ The Beginning of an Unexpected Journey
+ &lt;a class="heading-link" href="#the-beginning-of-an-unexpected-journey">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&amp;ldquo;It all started quite unexpectedly. Picture this: I was the CTO at an EdTech company, navigating the complexities of technology, when I stumbled upon the world of DevOps. This led me to some exciting projects, like crafting a secure, durable, and scalable infrastructure for Firi.com, a top European Crypto Exchange. It was more than just a job; it was where my passion met innovation.&amp;rdquo;&lt;/p></description></item><item><title>Contact</title><link>https://cageyv.dev/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/contact/</guid><description>&lt;p>Follow me, @cageyv.&lt;/p></description></item><item><title>Education</title><link>https://cageyv.dev/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/education/</guid><description>&lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://cageyv.dev/js/load-photoswipe.js">&lt;/script>
+
+
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous">&lt;/script>
+
+
+&lt;div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+&lt;div class="pswp__bg">&lt;/div>
+
+&lt;div class="pswp__scroll-wrap">
+ 
+ &lt;div class="pswp__container">
+ &lt;div class="pswp__item">&lt;/div>
+ &lt;div class="pswp__item">&lt;/div>
+ &lt;div class="pswp__item">&lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="pswp__ui pswp__ui--hidden">
+ &lt;div class="pswp__top-bar">
+ 
+ &lt;div class="pswp__counter">&lt;/div>
+ &lt;button class="pswp__button pswp__button--close" title="Close (Esc)">&lt;/button>
+ &lt;button class="pswp__button pswp__button--share" title="Share">&lt;/button>
+ &lt;button class="pswp__button pswp__button--fs" title="Toggle fullscreen">&lt;/button>
+ &lt;button class="pswp__button pswp__button--zoom" title="Zoom in/out">&lt;/button>
+ 
+ 
+ &lt;div class="pswp__preloader">
+ &lt;div class="pswp__preloader__icn">
+ &lt;div class="pswp__preloader__cut">
+ &lt;div class="pswp__preloader__donut">&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+ &lt;div class="pswp__share-tooltip">&lt;/div>
+ &lt;/div>
+ &lt;button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+ &lt;/button>
+ &lt;button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+ &lt;/button>
+ &lt;div class="pswp__caption">
+ &lt;div class="pswp__caption__center">&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;ul>
+&lt;li>2010 - 2014:
+&lt;ul>
+&lt;li>Moscow State University of Instrument Engineering and Computer Science&lt;/li>
+&lt;li>Master Degree, GPA: 4.55 / 5&lt;/li>
+&lt;li>Computers, complexes, systems, and networks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2006 - 2010:
+&lt;ul>
+&lt;li>Moscow College of Informatics and Computer Engineering&lt;/li>
+&lt;li>Engineer’s degree, GPA: 4.23 / 5&lt;/li>
+&lt;li>Computer software and automated systems&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="additional-education">
+ Additional Education
+ &lt;a class="heading-link" href="#additional-education">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="aws">
+ AWS
+ &lt;a class="heading-link" href="#aws">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;a href="https://www.aws.training/" class="external-link" target="_blank" rel="noopener">https://www.aws.training/&lt;/a>&lt;/p></description></item><item><title>Experience</title><link>https://cageyv.dev/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/experience/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>Sep 2023 - present: Principal Consultant | Cloud Engineer at Firi&lt;/p>
+&lt;ul>
+&lt;li>Skills: Amazon ECS · AWS Security · GitHub · Amazon Web Services (AWS) · Terraform · Cloudflare · VMWare · PostgreSQL&lt;/li>
+&lt;li>Led the migration from AWS WAF to Cloudflare WAF, achieving enhanced security and cost efficiency, by configuring Cloudflare as code for a Zero Trust architecture and moving all services behind Cloudflare WAF for robust protection.&lt;/li>
+&lt;li>Developed an on-premise replication solution, ensuring business continuity and resilience against downtime, by implementing VMware and Palo Alto as code, which allowed for seamless business operations even in the event of major disruptions.&lt;/li>
+&lt;li>Implemented multi-region data replication for RDS Aurora, meeting both business continuity needs and regulatory requirements, by utilizing Aurora Global Database to facilitate data availability across geographical locations.&lt;/li>
+&lt;li>Enhanced system observability and incident response, by introducing Grafana alerts for real-time monitoring of Prometheus and CloudWatch metrics, which improved system reliability through proactive detection and resolution of issues.&lt;/li>
+&lt;li>Updated and optimized Terraform code for infrastructure management, ensuring compatibility with the latest providers and modules, which streamlined service-to-service access control and infrastructure provisioning processes.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Sep 2022 - Aug 2023: Senior Consultant | Cloud Engineer at Hippo&lt;/p></description></item><item><title>First snippet</title><link>https://cageyv.dev/snippets/first/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/snippets/first/</guid><description>&lt;p>This content is in &lt;code>snippets/first/index.md&lt;/code>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>pwd
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Projects</title><link>https://cageyv.dev/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/projects/</guid><description>&lt;h2 id="secure-durable-and-scalable-infrastrature-for-europenian-crypto-exchange-platform">
+ Secure, durable and scalable Infrastrature for Europenian Crypto Exchange Platform
+ &lt;a class="heading-link" href="#secure-durable-and-scalable-infrastrature-for-europenian-crypto-exchange-platform">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>“It was an essential approach for us to be able to scale moving forward.” and &amp;ldquo;first application deployed in just two weeks.” (c)&lt;/p>
+&lt;ul>
+&lt;li>Migration from AWS EC2 to AWS ECS (Containers) like a hot swap wheel change on a moving race car&lt;/li>
+&lt;li>Pipeline migration from Buddyworks to GitHub Actions&lt;/li>
+&lt;li>Serverless solution (AWS ECS Fargate + AWS Lambda)&lt;/li>
+&lt;li>Security part: Database are not available for all world any more, CMK KMS as general for encryption, AWS WAF + Cloudflare for incoming traffic protection&lt;/li>
+&lt;li>Resource Optimization: Resource usage has been reduced by more than 50% and we will improve the ecology of the world. Sustainability is important.
+Resource Optimization: Resource usage has been reduced by more than 50% and we will improve the ecology of the world. Sustainability is important.&lt;/li>
+&lt;li>Keywords: AWS, AWS ECS, AWS Lambda, AWS WAF, AWS KMS, Terraform, GitHub Actions, Cloudflare, ZeroTrust&lt;/li>
+&lt;/ul>
+&lt;h2 id="application-delivery-platform-with-aws-ecs">
+ Application delivery platform with AWS ECS
+ &lt;a class="heading-link" href="#application-delivery-platform-with-aws-ecs">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&amp;ldquo;Completely immutable infrastructure thus reducing operating costs, enhancing resilience and providing the ability to scale. Ultimately, we achieved our most important goal: delivering the latest changes as quickly and securely as possible without the risk of application downtime. //NDA// is now faster, more flexible and more secure than ever.&amp;rdquo; (c)&lt;/p></description></item><item><title>Recommend</title><link>https://cageyv.dev/recommend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/recommend/</guid><description>&lt;h2 id="servies">
+ Servies
+ &lt;a class="heading-link" href="#servies">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.numbeo.com/" class="external-link" target="_blank" rel="noopener">Numbeo&lt;/a>
+Do you want to compare Cities or Countries? Cost of living and Quality of Life database is here.&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/duolingo" class="external-link" target="_blank" rel="noopener">DuoLingo&lt;/a>
+The free, fun, and effective way to learn a language!&lt;/li>
+&lt;li>&lt;a href="https://onwardticket.com/" class="external-link" target="_blank" rel="noopener">Onward Ticket&lt;/a>
+Quickly book a Flight Reservation for your Visa Application. Verifiable on Airline&amp;rsquo;s Websites.&lt;/li>
+&lt;li>&lt;a href="https://safetywing.com/nomad-insurance/" class="external-link" target="_blank" rel="noopener">SafetyWing&lt;/a>
+Insurance for nomdas. Travel medical insurance. They cover people from all over the world, while outside their home country.&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/italki" class="external-link" target="_blank" rel="noopener">italki&lt;/a>
+It helps me. Here’s $5 to help kickstart your journey. Give it a try now!&lt;/li>
+&lt;li>&lt;a href="https://www.audible.com/" class="external-link" target="_blank" rel="noopener">Audible&lt;/a>
+Audiobooks, Originals, and podcasts&lt;/li>
+&lt;li>&lt;a href="https://feedly.com/" class="external-link" target="_blank" rel="noopener">Feedly&lt;/a>
+Track insights across the web without having to read everything. Got bored with the recommendation system? Like old school RSS? Welcome to Feedly&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/unstoppabledomains" class="external-link" target="_blank" rel="noopener">UnstoppableDomains&lt;/a>
+NFT Domains No Renewal Fees Ever. Use NFT domains as your: Universal username across apps and websites, Website URL, Payment address for wallets and much more!&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/tutanota" class="external-link" target="_blank" rel="noopener">Tutanota&lt;/a>
+Secure email and collaboration. End-to-end encryption. 2-factor authentication. Servers in Germany.&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/humblebundle" class="external-link" target="_blank" rel="noopener">Humblebundle&lt;/a>
+Books bundles. Nice way to get IT books.&lt;/li>
+&lt;/ul>
+&lt;h2 id="it-services">
+ IT Services
+ &lt;a class="heading-link" href="#it-services">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://aws.amazon.com/" class="external-link" target="_blank" rel="noopener">AWS - Amazon Web Services&lt;/a>
+Whether you&amp;rsquo;re looking for compute power, database storage, content delivery, or other functionality, AWS has the services to help you build sophisticated applications with increased flexibility, scalability and reliability&lt;/li>
+&lt;li>&lt;a href="https://www.cloudflare.com/" class="external-link" target="_blank" rel="noopener">Cloudflare&lt;/a>
+A global network built for the cloud&lt;/li>
+&lt;li>&lt;a href="https://betteruptime.com/" class="external-link" target="_blank" rel="noopener">Better Uptime&lt;/a>
+They call you when your website goes down. Monitoring, incident management and status pages in one service&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/twilio" class="external-link" target="_blank" rel="noopener">Twilio&lt;/a>
+Twilio powers personalized interactions and trusted global communications to connect you with customers. Bored answering phone calls? Build your own digital secretary.&lt;/li>
+&lt;li>&lt;a href="https://www.make.com/" class="external-link" target="_blank" rel="noopener">Make&lt;/a>
+Connect apps #withMake. Make intragrations between secrives and small automations&lt;/li>
+&lt;li>&lt;a href="https://keybase.io/" class="external-link" target="_blank" rel="noopener">Keybase&lt;/a>
+End-to-end encryption for things that matter. Secure messaging and file-sharing.&lt;/li>
+&lt;li>&lt;a href="https://www.shodan.io/" class="external-link" target="_blank" rel="noopener">Shodan&lt;/a>
+Shodan is the world&amp;rsquo;s first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.&lt;/li>
+&lt;li>&lt;a href="https://haveibeenpwned.com/" class="external-link" target="_blank" rel="noopener">&amp;rsquo;;&amp;ndash;have i been pwned?&lt;/a>
+Check if your email or phone is in a data breach&lt;/li>
+&lt;li>&lt;a href="https://mxtoolbox.com/" class="external-link" target="_blank" rel="noopener">MXtoolbox&lt;/a>
+MX Lookup Tool - Check your DNS MX Records online. Blacklists, DMARC, Email Health and etc&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/codeium" class="external-link" target="_blank" rel="noopener">Codium&lt;/a>
+The modern coding superpower. A free extension to code with AI.&lt;/li>
+&lt;/ul>
+&lt;h2 id="financial">
+ Financial
+ &lt;a class="heading-link" href="#financial">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/wise" class="external-link" target="_blank" rel="noopener">Wise (Transferwise)&lt;/a>
+Nice exchange rates. Cheap and fast transfers. Get a discount on your first transfer and try Wise&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/letsdeel" class="external-link" target="_blank" rel="noopener">Deel&lt;/a>
+Payroll &amp;amp; Compliance for International Teams. Deel helps to hire anyone in any* country in minutes, automate onboarding, payroll, and compliance. Good for both sides clients and contractors. Flat fee. Supports multiply payment and withdrawal methods include Wise,SEPA,Coinbase,Revolut,Payoneer and bank transfers (180+ currencies)&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/advcash" class="external-link" target="_blank" rel="noopener">AdvCash&lt;/a>
+Local and international payment tools, bank transfers, cards, digital currencies and more&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/paysend" class="external-link" target="_blank" rel="noopener">PaySend&lt;/a>
+Transfer money online to over 150 countries around the world for only €1.5&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/epay" class="external-link" target="_blank" rel="noopener">Epay&lt;/a>
+Global payments. Send money to China. 70+ currency. 110+ payment. Cross-border payments. Support E-Wallets (AdvCash, Perfect Money), wire transers and cash withdrawal&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/ibkr" class="external-link" target="_blank" rel="noopener">IBKR&lt;/a>
+Up to USD 1,000 in IBKR stock. Open an account and get a bonus in stocks. IBKR is a global leader in online trading, providing fast and flexible access to over 135 markets in 33 countries&lt;/li>
+&lt;/ul>
+&lt;h2 id="crypto">
+ Crypto
+ &lt;a class="heading-link" href="#crypto">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/ledger" class="external-link" target="_blank" rel="noopener">Ledger&lt;/a>
+Ledger hardware wallets empower you with the ownership and control of your private keys. Ledger Live enables you to easily manage your crypto transactions. Ledger Live supports 27 coins and more than 1500 ERC-20 tokens&lt;/li>
+&lt;li>&lt;a href="https://withdrawalfees.com/" class="external-link" target="_blank" rel="noopener">withdrawalfees.com&lt;/a>
+Withdrawal Fees on Cryptocurrency Exchanges. Help to find better withdrawal accross 3000+ coins and 35+ exchanges&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/changelly" class="external-link" target="_blank" rel="noopener">Changelly&lt;/a>
+Exchange any crypto instantly. Exchange Bitcoin and 200+ altcoins in a fast, simple and secure way.&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/liquid" class="external-link" target="_blank" rel="noopener">Liquid&lt;/a>
+Buy, Sell &amp;amp; Trade Crypto. Asian Crypto Exchange owned by Quoine Pte Ltd that based in Singapore. Supports stacking/earn: SNX, USDC, USDT, CEL, ZUSD and others&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/cex" class="external-link" target="_blank" rel="noopener">CEX IO&lt;/a>
+A trusted and secure bitcoin and crypto exchange. Get started with the easiest and most secure platform to buy, sell, trade, and earn cryptocurrencies. Fiat 0% fee: ACH,Bank Transfer(SWIFT,SEPA),Epay,Advcash. Crypto networks: erc20, trc10, bep20, stellar and etc&lt;/li>
+&lt;li>&lt;a href="https://www.exodus.com/" class="external-link" target="_blank" rel="noopener">Exodus&lt;/a>
+Exodus Bitcoin &amp;amp; Crypto Wallet. Send, receive, and exchange Bitcoin and 200+ cryptocurrencies with ease on the world&amp;rsquo;s leading Desktop, Mobile and Hardware crypto wallets&lt;/li>
+&lt;li>&lt;a href="https://cageyv.dev/recommend/huobi" class="external-link" target="_blank" rel="noopener">Huobi&lt;/a> Claim Mystery Boxes worth up to 1,500 USDT.&lt;/li>
+&lt;/ul>
+&lt;h2 id="github-stars">
+ GitHub Stars
+ &lt;a class="heading-link" href="#github-stars">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+
+Latest 100 stars. Full list here: &lt;a href="https://github.com/cageyv?tab=stars">https://github.com/cageyv?tab=stars&lt;/a>
+&lt;ul>
+
+ &lt;li>
+ &lt;a href="https://github.com/ravikiranvm/aws-finops-dashboard">aws-finops-dashboard&lt;/a> - A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/jina-ai/node-DeepResearch">node-DeepResearch&lt;/a> - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/Intelligent-Internet/ii-researcher">ii-researcher&lt;/a> - II-Researcher: a new open-source framework designed to aid building search / research agents
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/Intelligent-Internet/ii-agent">ii-agent&lt;/a> - II-Agent: a new open-source framework to build and deploy intelligent agents
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/run-llama/llama_index">llama_index&lt;/a> - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/chroma-core/chroma">chroma&lt;/a> - the AI-native open-source embedding database
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/vanna-ai/vanna">vanna&lt;/a> - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/dagger/dagger">dagger&lt;/a> - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/Alibaba-NLP/ZeroSearch">ZeroSearch&lt;/a> - ZeroSearch: Incentivize the Search Capability of LLMs without Searching
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/FlowiseAI/Flowise">Flowise&lt;/a> - Build AI Agents, Visually
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/cockroachdb/cockroach">cockroach&lt;/a> - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/Helicone/helicone">helicone&lt;/a> - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/LibreTranslate/LibreTranslate">LibreTranslate&lt;/a> - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/vllm-project/vllm">vllm&lt;/a> - A high-throughput and memory-efficient inference and serving engine for LLMs
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/awslabs/mcp">mcp&lt;/a> - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/explosion/spaCy">spaCy&lt;/a> - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/searxng/searxng">searxng&lt;/a> - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/FellouAI/eko">eko&lt;/a> - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/bytedance/deer-flow">deer-flow&lt;/a> - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/executeautomation/mcp-playwright">mcp-playwright&lt;/a> - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/open-webui/mcpo">mcpo&lt;/a> - A simple, secure MCP-to-OpenAPI proxy server
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/mindverse/Second-Me">Second-Me&lt;/a> - Train your AI self, amplify you, bridge the world
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/github/github-mcp-server">github-mcp-server&lt;/a> - GitHub&amp;#39;s official MCP Server
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/supercorp-ai/supergateway">supergateway&lt;/a> - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/modelcontextprotocol/inspector">inspector&lt;/a> - Visual testing tool for MCP servers
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/runtipi/runtipi">runtipi&lt;/a> - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/ozum/pg-structure">pg-structure&lt;/a> - Get PostgreSQL database structure as a detailed JS Object.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/firefly-iii/firefly-iii">firefly-iii&lt;/a> - Firefly III: a personal finances manager
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/coder/coder">coder&lt;/a> - Provision remote development environments via Terraform
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/knadh/listmonk">listmonk&lt;/a> - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/hacksider/Deep-Live-Cam">Deep-Live-Cam&lt;/a> - real time face swap and one-click video deepfake with only a single image
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/microsoft/playwright-mcp">playwright-mcp&lt;/a> - Playwright MCP server
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/browserless/browserless">browserless&lt;/a> - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/draphonix/n8n-nodes-browser-use">n8n-nodes-browser-use&lt;/a> - 
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/honeycombio/gritql">gritql&lt;/a> - GritQL is a query language for searching, linting, and modifying code.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/plengauer/Thoth">Thoth&lt;/a> - 
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/katanemo/archgw">archgw&lt;/a> - The AI-native proxy server for agents. Arch handles the pesky low-level work in building agentic apps like calling specific tools, routing prompts to the right agents, clarifying vague inputs, unifying access and observability to any LLM, etc.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/codecrafters-io/build-your-own-x">build-your-own-x&lt;/a> - Master programming by recreating your favorite technologies from scratch.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/CodePhiliaX/Chat2DB">Chat2DB&lt;/a> - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/glanceapp/glance">glance&lt;/a> - A self-hosted dashboard that puts all your feeds in one place
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/OpenBB-finance/OpenBB">OpenBB&lt;/a> - Investment Research for Everyone, Everywhere.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/promptfoo/promptfoo">promptfoo&lt;/a> - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/mendableai/firecrawl">firecrawl&lt;/a> - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/dzhng/deep-research">deep-research&lt;/a> - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models. The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/mlc-ai/web-llm">web-llm&lt;/a> - High-performance In-browser LLM Inference Engine 
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/modelcontextprotocol/servers">servers&lt;/a> - Model Context Protocol Servers
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/rotemweiss57/gpt-newspaper">gpt-newspaper&lt;/a> - GPT based autonomous agent designed to create personalized newspapers tailored to user preferences. 
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/awslabs/amazon-ecs-local-container-endpoints">amazon-ecs-local-container-endpoints&lt;/a> - A container that provides local versions of the ECS Task Metadata Endpoint and ECS Task IAM Roles Endpoint. 
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/grapeot/devin.cursorrules">devin.cursorrules&lt;/a> - Magic to turn Cursor/Windsurf as 90% of Devin
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/BerriAI/litellm">litellm&lt;/a> - Python SDK, Proxy Server (LLM Gateway) to call 100&amp;#43; LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/lm-sys/RouteLLM">RouteLLM&lt;/a> - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/getcursor/cursor">cursor&lt;/a> - The AI Code Editor
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/cline/cline">cline&lt;/a> - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/browser-use/browser-use">browser-use&lt;/a> - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/khoj-ai/khoj">khoj&lt;/a> - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/projectdiscovery/subfinder">subfinder&lt;/a> - Fast passive subdomain enumeration tool.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/tofuutils/tenv">tenv&lt;/a> - OpenTofu / Terraform / Terragrunt and Atmos version manager
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/voideditor/void">void&lt;/a> - 
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/mrrfv/cloudflare-gateway-pihole-scripts">cloudflare-gateway-pihole-scripts&lt;/a> - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/postgresml/pgcat">pgcat&lt;/a> - PostgreSQL pooler with sharding, load balancing and failover support.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/CrunchyData/pgmonitor">pgmonitor&lt;/a> - PostgreSQL Monitoring, Metrics Collection and Alerting Resources from Crunchy Data
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/aws-samples/networking-costs-calculator">networking-costs-calculator&lt;/a> - Sample of a networking costs calculator, helping to estimate the networking costs such as Data Transfer, Transit Gateway Attachments, NAT Gateways etc.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/peter-evans/repository-dispatch">repository-dispatch&lt;/a> - A GitHub action to create a repository dispatch event
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/actions/create-github-app-token">create-github-app-token&lt;/a> - GitHub Action for creating a GitHub App Installation Access Token
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/deviceinsight/kafkactl">kafkactl&lt;/a> - Command Line Tool for managing Apache Kafka
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/nix-community/nurl">nurl&lt;/a> - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/cooperwalbrun/aws-iam-actions-support">aws-iam-actions-support&lt;/a> - A repository used for tracking issues related to the AWS IAM Actions website.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/NVIDIA/garak">garak&lt;/a> - the LLM vulnerability scanner
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/meta-llama/PurpleLlama">PurpleLlama&lt;/a> - Set of tools to assess and improve LLM security.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/neondatabase/neon">neon&lt;/a> - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/sickcodes/Docker-eyeOS">Docker-eyeOS&lt;/a> - Run iPhone (xnu-arm64) in a Docker container! Supports KVM &amp;#43; iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/sickcodes/dock-droid">dock-droid&lt;/a> - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/sickcodes/Docker-OSX">Docker-OSX&lt;/a> - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/sdras/awesome-actions">awesome-actions&lt;/a> - A curated list of awesome actions to use on GitHub
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/fatedier/frp">frp&lt;/a> - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/aws-cloudformation/cloudformation-guard">cloudformation-guard&lt;/a> - Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules. Take this survey to provide feedback about cfn-guard: https://amazonmr.au1.qualtrics.com/jfe/form/SV_bpyzpfoYGGuuUl0
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/aws-cloudformation/cfn-lint">cfn-lint&lt;/a> - CloudFormation Linter
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/probot/probot">probot&lt;/a> - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/lindell/multi-gitter">multi-gitter&lt;/a> - Update multiple repositories in with one command
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/inkmi/erro">erro&lt;/a> - Reduce debugging time while programming Go. Use static analysis to determine which func call causes the error.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/aws-samples/bedrock-access-gateway">bedrock-access-gateway&lt;/a> - OpenAI-Compatible RESTful APIs for Amazon Bedrock
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/httptoolkit/httptoolkit">httptoolkit&lt;/a> - HTTP Toolkit is a beautiful &amp;amp; open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux &amp;amp; Mac :tada: Open an issue here to give feedback or ask for help.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">stable-diffusion-webui&lt;/a> - Stable Diffusion web UI
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/awslabs/aws-support-tools">aws-support-tools&lt;/a> - Tools and sample code provided by AWS Premium Support.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/valkey-io/valkey">valkey&lt;/a> - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/BishopFox/cloudfox">cloudfox&lt;/a> - Automating situational awareness for cloud penetration tests.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/open-webui/open-webui">open-webui&lt;/a> - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/ollama/ollama">ollama&lt;/a> - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/mendhak/docker-http-https-echo">docker-http-https-echo&lt;/a> - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/mitmproxy/mitmproxy">mitmproxy&lt;/a> - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/defog-ai/sqlcoder">sqlcoder&lt;/a> - SoTA LLM for converting natural language questions to SQL queries
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/bigcode-project/starcoder">starcoder&lt;/a> - Home of StarCoder: fine-tuning &amp;amp; inference!
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/apple/ml-mgie">ml-mgie&lt;/a> - 
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/keidarcy/e1s">e1s&lt;/a> - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/HumanAIGC/OutfitAnyone">OutfitAnyone&lt;/a> - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/ffuf/ffuf">ffuf&lt;/a> - Fast web fuzzer written in Go
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/nozaq/terraform-aws-secure-baseline">terraform-aws-secure-baseline&lt;/a> - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/DevToys-app/DevToysMac">DevToysMac&lt;/a> - DevToys For mac
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/orbstack/orbstack">orbstack&lt;/a> - Fast, light, simple Docker containers &amp;amp; Linux machines
+ &lt;/li>
+
+ &lt;li>
+ &lt;a href="https://github.com/francoismichel/ssh3">ssh3&lt;/a> - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
+ &lt;/li>
+
+&lt;/ul></description></item><item><title>Second snippet</title><link>https://cageyv.dev/snippets/second/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cageyv.dev/snippets/second/</guid><description>&lt;p>This content is in &lt;code>snippets/second/index.md&lt;/code>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>ls -la
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
