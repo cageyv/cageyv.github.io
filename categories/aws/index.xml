@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aws on Vladimir Samoylov</title><link>https://cageyv.dev/categories/aws/</link><description>Recent content in Aws on Vladimir Samoylov</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cageyv.dev/categories/aws/index.xml" rel="self" type="application/rss+xml"/><item><title>MVP on AWS: PostgreSQL</title><link>https://cageyv.dev/posts/aws-mvp-postgresql/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-mvp-postgresql/</guid><description>&lt;h2 id="why-postgresql">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aws on Vladimir Samoylov</title><link>https://cageyv.dev/categories/aws/</link><description>Recent content in Aws on Vladimir Samoylov</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cageyv.dev/categories/aws/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazon Q CLI: More than chat. Building small game</title><link>https://cageyv.dev/posts/aws-q-cli-game/</link><pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-q-cli-game/</guid><description>&lt;h2 id="from-swift-to-java-script">
+ From Swift to Java Script
+ &lt;a class="heading-link" href="#from-swift-to-java-script">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Remember that old project? The one where I spent time with Swift back in 2023, trying to build a simple game about work-life balance? It was an entertaining idea to demonstrate how easily things can go wrong when given only a few options. But like many side projects, it was abandoned because of time constraints and, to be honest, the lack of robust GenAI tools at the time.&lt;/p></description></item><item><title>MVP on AWS: PostgreSQL</title><link>https://cageyv.dev/posts/aws-mvp-postgresql/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://cageyv.dev/posts/aws-mvp-postgresql/</guid><description>&lt;h2 id="why-postgresql">
  Why PostgreSQL?
  &lt;a class="heading-link" href="#why-postgresql">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
